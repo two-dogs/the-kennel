@@ -1,0 +1,15 @@
+#!/bin/sh
+ # \
+ exec wish "$0" "$@"
+ 
+wm withdraw .
+if { [catch { set word [selection get "STRING"] }] != 0 } { exit 0 }
+regsub -all "( |\n)+" "$word" "+" googleWord
+#exec kfmclient newTab "https://duckduckgo.com/?q=$googleWord";
+#exec kfmclient newTab "https://www.google.com/search?q=$googleWord";
+exec chromium --incognito "https://www.google.com/search?q=$googleWord";
+#exec rekonq newTab  "https://www.google.com/search?q=$googleWord";
+#exec rekonq newTab "https://duckduckgo.com/?q=$googleWord";
+#exec pastebinit $googleWord;
+##$googleWord | pastebinit -a anymouse-Two_Dogs
+exit 0

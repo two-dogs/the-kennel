@@ -1,6 +1,0 @@
-<linda> draggie: this is the message W:Failed to fetch http://packages.medibuntu.org/dists/raring/non-free/binary-amd64/Packages  Something wicked happened resolving 'packages.medibuntu.org:http' (-11 - System error)
-<linda> , W:Failed to fetch http://packages.medibuntu.org/dists/raring/free/binary-i386/Packages  Something wicked happened resolving 'packages.medibuntu.org:http' (-11 - System error)
-<linda> , W:Failed to fetch http://packages.medibuntu.org/dists/raring/non-free/binary-i386/Packages  Something wicked happened resolving 'packages.medibuntu.org:http' (-11 - System error)
-<linda> , E:Some index files failed to download. They have been ignored, or old ones used instead.
-
-that is mint 15 above

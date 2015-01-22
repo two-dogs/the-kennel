@@ -42,7 +42,8 @@ So how do you get it? We've packaged it for Debian Squeeze/Ubuntu.
 `sudo yum install spotify-client --nogpg `
 
 > obtain the keys and reattempt
-opt. 1: `gpg --import --keyserver keyserver.ubuntu.com --recv-keys 94558F59`
+
+> opt. 1: `gpg --import --keyserver keyserver.ubuntu.com --recv-keys 94558F59`
 
 > opt. 2: `rpm --import --keyserver keyserver.ubuntu.com --recv-keys 94558F59`
 
@@ -76,4 +77,5 @@ opt. 1: `gpg --import --keyserver keyserver.ubuntu.com --recv-keys 94558F59`
 > obtain the keys and reattempt
 
 opt. 1: `gpg --import --keyserver keyserver.ubuntu.com --recv-keys 94558F59`
+
 opt. 2: `rpm --import --keyserver keyserver.ubuntu.com --recv-keys 94558F59`

@@ -42,6 +42,7 @@ So how do you get it? We've packaged it for Debian Squeeze/Ubuntu.
 `sudo yum install spotify-client --nogpg `
 
 > obtain the keys and reattempt
+
 opt. 1: `gpg --import --keyserver keyserver.ubuntu.com --recv-keys 94558F59`
 
 > opt. 2: `rpm --import --keyserver keyserver.ubuntu.com --recv-keys 94558F59`
@@ -58,6 +59,7 @@ opt. 1: `gpg --import --keyserver keyserver.ubuntu.com --recv-keys 94558F59`
 `chmod +x spotify-rpm-generator.sh `
 
 > Install Spotify (several options)
+
 > opt. 1: `./spotify-rpm-generator.sh` ( also makes a local /home backup)
 
 > opt. 2: `sudo rpm -ivh --nodeps spotify-*.rpm`

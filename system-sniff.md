@@ -6,5 +6,5 @@
 
 <b><i>RPMe Based distros</b></i>
 
-sudo inxi -U
-(date && inxi -c0 -Fzxxtcm5 && sudo grep -B1 -A1 -E1 'warn|fail|critical' var/log/messages && date) > ~/trouble-shoot-history.txt
+`sudo inxi -U
+(date && inxi -c0 -Fzxxtcm5 && sudo grep -B1 -A1 -E1 'warn|fail|critical' var/log/messages && date) > ~/trouble-shoot-history.txt`

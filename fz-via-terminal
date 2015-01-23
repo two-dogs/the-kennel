@@ -1,1 +1,0 @@
-cd ~/ && sudo apt-get install pastebinit && sudo inxi -U && inxi -c0 -FSRzdfulportcm20 > dummy.txt && egrep -i 'warn|error|critical' /var/log/syslog >> dummy.txt && pastebinit dummy.txt && rm dummy.txt

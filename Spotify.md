@@ -21,6 +21,7 @@ So how do you get it? We've packaged it for Debian Squeeze/Ubuntu.
 `sudo apt-get install spotify-client`
 
 >above instructions taken from this link, https://www.spotify.com/us/download/previews/
+
 >i have seen one complaint, specific to 'Debian', dependency issues with the install of libsslxxxx
 
 

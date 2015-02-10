@@ -20,7 +20,7 @@ So how do you get it? We've packaged it for Debian Squeeze/Ubuntu.
 
 `sudo apt-get install spotify-client`
 
->above taken from this link, https://www.spotify.com/us/download/previews/
+>above instructions taken from this link, https://www.spotify.com/us/download/previews/
 
 
 ### Fedora

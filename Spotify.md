@@ -31,7 +31,9 @@ So how do you get it? We've packaged it for Debian Squeeze/Ubuntu.
 
 >http://imgur.com/lCmaCW8 software-sources entry point for key `94558F59`
 
->http://imgur.com/8FOYNam software-sources post entry #update cache#
+>http://imgur.com/8FOYNam software-sources post entry
+
+>update cache
 
 >search software-manager or package-manager for 'spotify' 
 

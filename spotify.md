@@ -24,7 +24,7 @@ So how do you get it? We've packaged it for Debian Squeeze/Ubuntu.
 
 >i have seen one complaint, specific to 'Debian', dependency issues with the install of libsslxxxx
 
-### Mint only (go here) [https://github.com/two-dogs/the-kennel/blob/master/spotify-mint-install.md]
+### Mint only [go here] (https://github.com/two-dogs/the-kennel/blob/master/spotify-mint-install.md)
 
 ### Fedora
 > Download the repo rpm  (subsitute  fc21 and x86_64 for your fedora-release and arch if they are different)

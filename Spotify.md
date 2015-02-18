@@ -35,7 +35,7 @@ So how do you get it? We've packaged it for Debian Squeeze/Ubuntu.
 
 > close **software-sources**
 
-> open **software-sources** or **package-manager** and search for `spotify` and **install**
+> open **software-manager** or **package-manager** and search for `spotify` and **install**
 
 
 ### Fedora

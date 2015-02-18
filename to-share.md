@@ -9,4 +9,5 @@ the file _**`trouble-shoot-history.txt`**_ output from the various options execu
 
 you should get a link to a web page(gist) and you want to share the link.
 
-to view the content use a file-manager (`caja/nemo/dolphin/etc`) to locate and click to open, an alternate method to share the the file content is use http://pastie.org or http://dpaste.com or what ever pastebin you prefer.
+to view the content at `~/trouble-shoot-history.txt` use a file-manager (`caja/nemo/dolphin/etc`) to locate and click to open, 
+> an alternate method to share the the file content is use http://pastie.org or http://dpaste.com or what ever pastebin you prefer.

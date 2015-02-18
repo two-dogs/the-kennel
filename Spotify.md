@@ -27,17 +27,15 @@ So how do you get it? We've packaged it for Debian Squeeze/Ubuntu.
 ### Mint only
 > open **software-sources**
 
-> http://imgur.com/xsWrUPa **software-sources** entry point for repo `deb http://repository.spotify.com stable non-free`
+> http://imgur.com/xsWrUPa **software-sources** entry point for **repo** `deb http://repository.spotify.com stable non-free`
 
-> http://imgur.com/lCmaCW8 **software-sources** entry point for key `94558F59`
+> http://imgur.com/lCmaCW8 **software-sources** entry point for **key** `94558F59`
 
-> http://imgur.com/8FOYNam **software-sources** post entry
-
-> update the cache
+> http://imgur.com/8FOYNam **software-sources** post entry , **update the cache**
 
 > close **software-sources**
 
-> open **software-sources** or **package-manager** and search for `spotify` and install
+> open **software-sources** or **package-manager** and search for `spotify` and **install**
 
 
 ### Fedora

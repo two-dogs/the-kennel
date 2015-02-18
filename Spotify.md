@@ -25,17 +25,19 @@ So how do you get it? We've packaged it for Debian Squeeze/Ubuntu.
 >i have seen one complaint, specific to 'Debian', dependency issues with the install of libsslxxxx
 
 ### Mint only
->open software-sources
+> open software-sources
 
->http://imgur.com/xsWrUPa software-sources entry point for repo `deb http://repository.spotify.com stable non-free`
+> http://imgur.com/xsWrUPa `software-sources` entry point for repo `deb http://repository.spotify.com stable non-free`
 
->http://imgur.com/lCmaCW8 software-sources entry point for key `94558F59`
+> http://imgur.com/lCmaCW8 `software-sources` entry point for key `94558F59`
 
->http://imgur.com/8FOYNam software-sources post entry
+> http://imgur.com/8FOYNam `software-sources` post entry
 
->update cache
+> update the cache
 
->search software-manager or package-manager for 'spotify' 
+> close `software-sources`
+
+> open `software-manager` or `package-manager` and search for `spotify` 
 
 
 ### Fedora

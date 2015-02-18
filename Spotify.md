@@ -26,10 +26,15 @@ So how do you get it? We've packaged it for Debian Squeeze/Ubuntu.
 
 ### Mint only
 >open software-sources
+
 >http://imgur.com/xsWrUPa software-sources entry point for repo `deb http://repository.spotify.com stable non-free`
+
 >http://imgur.com/lCmaCW8 software-sources entry point for key '94558F59`
+
 >http://imgur.com/8FOYNam software-sources post entry update cache
+
 >search software-manager or package-manager for 'spotify' 
+
 
 ### Fedora
 > Download the repo rpm  (subsitute  fc21 and x86_64 for your fedora-release and arch if they are different)

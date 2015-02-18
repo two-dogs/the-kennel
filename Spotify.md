@@ -3,7 +3,7 @@ This is a preview build of Spotify for Linux. As a preview release this version 
 
 So how do you get it? We've packaged it for Debian Squeeze/Ubuntu.
 
-### Mint/Ubuntu/Debian 
+### /Ubuntu/Debian 
 >Add this line to your list of repositories by editing your _/etc/apt/sources.list_
 
 `deb http://repository.spotify.com stable non-free`
@@ -24,6 +24,12 @@ So how do you get it? We've packaged it for Debian Squeeze/Ubuntu.
 
 >i have seen one complaint, specific to 'Debian', dependency issues with the install of libsslxxxx
 
+### Mint only
+>open software-sources
+>http://imgur.com/xsWrUPa software-sources entry point for repo `deb http://repository.spotify.com stable non-free`
+>http://imgur.com/lCmaCW8 software-sources entry point for key '94558F59`
+>http://imgur.com/8FOYNam software-sources post entry update cache
+>search software-manager or package-manager for 'spotify' 
 
 ### Fedora
 > Download the repo rpm  (subsitute  fc21 and x86_64 for your fedora-release and arch if they are different)

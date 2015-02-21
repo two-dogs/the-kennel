@@ -1,2 +1,2 @@
-the-kennel, is my playground, thnks.
+the-kennel is my playground, thnks.
 ==========

@@ -14,8 +14,8 @@
 * http://mate-desktop.org/blog/
 * http://docs.xfce.org/
 
-Mint Mate Users Guide
-* http://www.linuxmint.com/documentation/user-guide/MATE/?C=M;O=D
+Mint Users Guide
+* http://www.linuxmint.com/documentation/user-guide/
 
 Mint Mate/Cinnamon Bugs/Issues
 * https://github.com/linuxmint/Cinnamon/issues

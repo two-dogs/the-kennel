@@ -14,7 +14,7 @@
 * http://mate-desktop.org/blog/
 * http://docs.xfce.org/
 
-Mint Users Guide
+###Mint Users Guide
 * http://www.linuxmint.com/documentation/user-guide/
 
 Mint Mate/Cinnamon Bugs/Issues

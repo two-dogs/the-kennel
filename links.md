@@ -1,4 +1,4 @@
-A good starting place to learn about Linux and Mint;
+**A good starting place to learn about Linux and Mint;
 * http://linuxcommand.org/index.php
 * http://community.linuxmint.com/tutorial/view/100
 * http://sourceforge.net/projects/linuxcommand/files/TLCL/

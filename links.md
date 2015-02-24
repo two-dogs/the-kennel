@@ -15,7 +15,7 @@
 * http://docs.xfce.org/
 
 Mint Mate Users Guide
-* http://www.linuxmint.com/documentation/user-guide/english_15.0.pdf
+* http://www.linuxmint.com/documentation/user-guide/MATE/?C=M;O=D
 
 Mint Mate/Cinnamon Bugs/Issues
 * https://github.com/linuxmint/Cinnamon/issues

@@ -14,10 +14,10 @@
 * http://mate-desktop.org/blog/
 * http://docs.xfce.org/
 
-###Mint Mate Users Guide
+Mint Mate Users Guide
 * http://www.linuxmint.com/documentation/user-guide/english_15.0.pdf
 
-###Mint Mate/Cinnamon Bugs/Issues
+Mint Mate/Cinnamon Bugs/Issues
 * https://github.com/linuxmint/Cinnamon/issues
 * http://www.linuxmint.com/rel_qiana_mate.php
 * http://www.linuxmint.com/rel_qiana_cinnamon.php

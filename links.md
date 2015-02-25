@@ -13,11 +13,17 @@
 * http://wiki.mate-desktop.org/
 * http://mate-desktop.org/blog/
 * http://docs.xfce.org/
+ 
+###Mint Install/Upgrade
+* http://www.linuxmint.com/oldreleases.php & 
+* http://www.linuxmint.com/download.php & 
+* http://blog.linuxmint.com/ &
+* for upgrade info http://community.linuxmint.com/tutorial/view/2
 
 ###Mint Users Guide
 * http://www.linuxmint.com/documentation/user-guide/
 
-Mint Mate/Cinnamon Bugs/Issues
+###Mint Mate/Cinnamon Bugs/Issues
 * https://github.com/linuxmint/Cinnamon/issues
 * http://www.linuxmint.com/rel_qiana_mate.php
 * http://www.linuxmint.com/rel_qiana_cinnamon.php

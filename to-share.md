@@ -8,7 +8,7 @@ the file _**`trouble-shoot-history.txt`**_ output from the various options execu
 
 `gist-paste ~/trouble-shoot-history.txt`
 
-you should get a link to a web page(gist) and you want to share the link.
+* you should get a link to a web page(gist) and you want to share the link.
 
 > to view the content of `~/trouble-shoot-history.txt` use the file-manager for your desktop (`caja/nemo/dolphin/etc`) to locate and click to open,
 

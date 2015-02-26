@@ -1,9 +1,10 @@
 ### **To Share**:
-the file _**`trouble-shoot-history.txt`**_ output from the various options executed is located in your user area(/home/your-user-name/..), at `~/trouble-shoot-history.txt` , and to share the current content continue reading , first install the method to share the output, this only needs to be done once unless you remove the package later;
+the file _**`trouble-shoot-history.txt`**_ output from the various options executed is located in your user area(/home/your-user-name/..), at `~/trouble-shoot-history.txt` , and to share the current content continue reading , 
+* first install the method to share the output, this only needs to be done once unless you remove the package later;
 
 `sudo apt install gist` 
 
- and to share the content;
+* and to share the content;
 
 `gist-paste ~/trouble-shoot-history.txt`
 

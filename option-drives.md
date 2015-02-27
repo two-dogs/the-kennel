@@ -1,5 +1,5 @@
 ### drives
-option-**drives** , copy/paste and execute via `terminal` the `indented` below, the "To Share" instructions are [here.](https://github.com/two-dogs/the-kennel/wiki/trouble-shoot-history#to-share).
+option-**drives** , copy/paste and execute via `terminal` the `indented` below, the "To Share" instructions are [here.](https://github.com/two-dogs/the-kennel/blob/master/to-share.md).
 
 `sudo inxi -U ; (sudo parted -l && [ -d /sys/firmware/efi ] && echo "EFI boot on HDD" || echo "Legacy boot on HDD" && lsblk -fm && inxi -c0 -Rduplo| echo --cut-fstab-begin-- ; cat /etc/fstab ; echo --cut-fstab-end--) > ~/trouble-shoot-history.txt && echo "Done, the log has been saved to ~/trouble-shoot-history.txt"`
 

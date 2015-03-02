@@ -1,8 +1,11 @@
 Linux
 
 Apt/Aptitude (Debian, Ubuntu, Mint, etc.)
+
 Notice: we recently revoked our keys and remade our repo
+
 Please re-add it if you used it before.
+
 Tox currently maintains Apt and Yum-compatible repos for our Linux clients.
 Keep in mind that while we're currently working on packages for all of them, uTox, Toxic, qTox, ratox and tox-bootstrapd (the daemon for running a bootstrap node) are currently listed.
 

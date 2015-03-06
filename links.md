@@ -3,6 +3,7 @@
 * http://community.linuxmint.com/tutorial/view/100
 * http://sourceforge.net/projects/linuxcommand/files/TLCL/
 * http://mywiki.wooledge.org/BashGuide
+* http://developer.android.com/index.html (yes, its linux)
 
 ###Mint specific documentation;
 * http://www.linuxmint.com/

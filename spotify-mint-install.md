@@ -14,4 +14,5 @@
 ref:
 https://www.spotify.com/us/download/previews/
 
+> or download from link and install directly
 http://repository.spotify.com/pool/non-free/s/spotify/

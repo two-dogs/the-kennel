@@ -11,4 +11,6 @@
 
 > open **software-manager** or **package-manager** and search for `spotify` and **install**
 
-ref: https://www.spotify.com/us/download/previews/
+ref:
+https://www.spotify.com/us/download/previews/
+http://repository.spotify.com/pool/non-free/s/spotify/

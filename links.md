@@ -16,6 +16,7 @@
 * http://www.techsupportalert.com/content/tips-and-tricks-linux-mint-after-installation-mint-17-cinnamon-edition.htm if you have questions the author can be found here, https://plus.google.com/+JojoYee?rel=author
 * https://github.com/Koutch
 * http://cinnamon.linuxmint.com/
+* http://all-tech-thoughts.blogspot.com/2014/09/how-to-add-gmusicbrowser-to-media-menu.html  add other music players to play list, i dont know how safe that is, added Kodi and kmplayer  to list, worked mostly, cant control player from the applet, if some one manages to please give me a shout. ( a re-install of cinnamon will wipe the tweak, keep a safe copy else.
 
 >Mint KDE
 * http://userbase.kde.org/Welcome_to_KDE_UserBase

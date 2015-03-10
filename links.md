@@ -8,7 +8,7 @@
 * http://www.linuxmint.com/
 * http://www.linuxmint.com/documentation.php
 * http://community.linuxmint.com/tutorial/view/100
-* * http://en.wikipedia.org/wiki/Linux_Mint
+* http://en.wikipedia.org/wiki/Linux_Mint
 
 >Mint Cinnamon
 * http://www.techsupportalert.com/content/tips-and-tricks-linux-mint-after-installation-mint-17-cinnamon-edition.htm if you have questions the author can be found here, https://plus.google.com/+JojoYee?rel=author

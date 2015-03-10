@@ -12,7 +12,8 @@
 
 >Mint Cinnamon
 * http://www.techsupportalert.com/content/tips-and-tricks-linux-mint-after-installation-mint-17-cinnamon-edition.htm if you have questions the author can be found here, https://plus.google.com/+JojoYee?rel=author
- * http://cinnamon.linuxmint.com/
+* https://github.com/Koutch
+* http://cinnamon.linuxmint.com/
 
 >Mint KDE
 * http://userbase.kde.org/Welcome_to_KDE_UserBase

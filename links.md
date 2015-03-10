@@ -14,6 +14,9 @@
 * http://wiki.mate-desktop.org/
 * http://mate-desktop.org/blog/
 * http://docs.xfce.org/
+
+>Mint Cinnamon
+* http://www.techsupportalert.com/content/tips-and-tricks-linux-mint-after-installation-mint-17-cinnamon-edition.htm
  
 ###Mint Install/Upgrade
 * http://www.linuxmint.com/oldreleases.php & 

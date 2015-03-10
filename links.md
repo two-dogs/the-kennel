@@ -16,7 +16,7 @@
 * http://docs.xfce.org/
 
 >Mint Cinnamon
-* http://www.techsupportalert.com/content/tips-and-tricks-linux-mint-after-installation-mint-17-cinnamon-edition.htm
+* http://www.techsupportalert.com/content/tips-and-tricks-linux-mint-after-installation-mint-17-cinnamon-edition.htm if you have questions the author can be found here, https://plus.google.com/+JojoYee?rel=author
  
 ###Mint Install/Upgrade
 * http://www.linuxmint.com/oldreleases.php & 

@@ -36,6 +36,8 @@
 * http://www.linuxmint.com/download.php & 
 * http://blog.linuxmint.com/ &
 * for upgrade info http://community.linuxmint.com/tutorial/view/2
+* http://packages.linuxmint.com/index.php
+* http://packages.ubuntu.com/
 
 ###Mint Mate/Cinnamon Bugs/Issues
 * https://github.com/linuxmint/Cinnamon/issues

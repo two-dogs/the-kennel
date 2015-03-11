@@ -31,13 +31,15 @@
 >Mint Users Guide
 * http://www.linuxmint.com/documentation/user-guide/
 
-###Mint Install/Upgrade
+###Mint Install/Upgrade/Repair
 * http://www.linuxmint.com/oldreleases.php & 
 * http://www.linuxmint.com/download.php & 
 * http://blog.linuxmint.com/ &
 * for upgrade info http://community.linuxmint.com/tutorial/view/2
 * http://packages.linuxmint.com/index.php
 * http://packages.ubuntu.com/
+
+> http://sourceforge.net/p/boot-repair/home/Home/ repair grub without a re-install
 
 ###Mint Mate/Cinnamon Bugs/Issues
 * https://github.com/linuxmint/Cinnamon/issues

@@ -41,7 +41,9 @@
 
 > http://sourceforge.net/p/boot-repair/home/Home/ repair grub without a re-install
 
-> Issues with KDE apps If you're experiencing issues with KDE apps (Okular, Gwenview, KStars..etc) run the following command:
+* Issues with KDE apps 
+
+> If you're experiencing issues with KDE apps (Okular, Gwenview, KStars..etc) run the following command:
 
 `apt install kdelibs-bin kdelibs5-data kdelibs5-plugins`
 

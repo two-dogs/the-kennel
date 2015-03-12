@@ -40,8 +40,11 @@
 * http://packages.ubuntu.com/
 * repair grub without a re-install http://sourceforge.net/p/boot-repair/home/Home/ 
 * Issues with KDE apps when using KDE apps without KDE Desktop installed
+
 > If you're experiencing issues with KDE apps (Okular, Gwenview, KStars..etc) run the following command:
+
 `sudo apt install kdelibs-bin kdelibs5-data kdelibs5-plugins`
+
 > Note: These issues do not affect the KDE edition. A regression in KDE 4.14 prevents these applications from working fine out of the box outside of KDE.
 
 

@@ -45,7 +45,8 @@
 * http://blog.linuxmint.com/?p=2725
 * http://community.linuxmint.com/tutorial/view/2
 
-> Issues with KDE apps when using KDE apps without KDE Desktop installed
+
+** Issues with KDE apps when using KDE apps without KDE Desktop installed
 
 > If you're experiencing issues with KDE apps (Okular, Gwenview, KStars..etc) run the following command:
 

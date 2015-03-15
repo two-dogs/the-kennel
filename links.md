@@ -35,13 +35,17 @@
 ###Mint Install/Upgrade/Repair
 * http://www.linuxmint.com/oldreleases.php & 
 * http://www.linuxmint.com/download.php & 
-* http://blog.linuxmint.com/ &
-* for upgrade info http://community.linuxmint.com/tutorial/view/2
+* http://blog.linuxmint.com/
 * http://packages.linuxmint.com/index.php
 * http://packages.ubuntu.com/
 * repair grub without a re-install http://sourceforge.net/p/boot-repair/home/Home/
 * http://askubuntu.com/questions/219942/how-to-uninstall-manually-installed-nvidia-drivers
-* Issues with KDE apps when using KDE apps without KDE Desktop installed
+
+> for upgrade info 
+* http://blog.linuxmint.com/?p=2725
+* http://community.linuxmint.com/tutorial/view/2
+
+> Issues with KDE apps when using KDE apps without KDE Desktop installed
 
 > If you're experiencing issues with KDE apps (Okular, Gwenview, KStars..etc) run the following command:
 

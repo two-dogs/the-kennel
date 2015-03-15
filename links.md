@@ -38,14 +38,15 @@
 * for upgrade info http://community.linuxmint.com/tutorial/view/2
 * http://packages.linuxmint.com/index.php
 * http://packages.ubuntu.com/
-* repair grub without a re-install http://sourceforge.net/p/boot-repair/home/Home/ 
+* repair grub without a re-install http://sourceforge.net/p/boot-repair/home/Home/
+* http://askubuntu.com/questions/219942/how-to-uninstall-manually-installed-nvidia-drivers
 * Issues with KDE apps when using KDE apps without KDE Desktop installed
 
 > If you're experiencing issues with KDE apps (Okular, Gwenview, KStars..etc) run the following command:
 
 `sudo apt install kdelibs-bin kdelibs5-data kdelibs5-plugins`
 
-> Note: These issues do not affect the KDE edition. A regression in KDE 4.14 prevents these applications from working fine out of the box outside of KDE.
+> Note: These issues do not affect the KDE edition. A regression in KDE 4.14 prevents these applications from working fine out of the box outside of KDE. Ref: Release Notes from LM-17.1
 
 
 

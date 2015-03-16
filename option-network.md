@@ -29,4 +29,4 @@ date ;
  echo "Done, the log has been saved to ~/trouble-shoot-history.txt" ;`
 
 ***
-[a better view of the execute structure is here](https://github.com/two-dogs/the-kennel/raw/master/option-network.md)
+[the raw view of the execute structure is here and easier to make out what is going on](https://github.com/two-dogs/the-kennel/raw/master/option-network.md)

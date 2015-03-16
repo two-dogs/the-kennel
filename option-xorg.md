@@ -19,9 +19,6 @@ option-xorg, copy/paste and execute `via terminal` the indented below in order t
   echo --cut-dpkg-start-- ;
   dpkg -l | grep -Ei 'mesa|nvidia|nouveau|fglrx|radeon|xserver-xorg-video' ;
   echo --cut-dpkg-end-- ;
-  echo --cut-syslog-start ;
-  grep -B1 -Ei 'fail|error|critical' /var/log/syslog ;
-  echo --cut-syslog-end ;
   echo --cut-Xorg.0.log-start ;
   grep -B1 -Ewi 'kernel|conf|WW|EE' /var/log/Xorg.0.log ;
   echo --cut-Xorg.0.log-end ;
@@ -29,6 +26,9 @@ option-xorg, copy/paste and execute `via terminal` the indented below in order t
   locate NVIDIA*.run ;
   ls /usr/share/ati/ | grep -i fglrx ;
   echo --cut-webinstall-end ;
+  echo --cut-syslog-start ;
+  grep -B1 -Ei 'fail|error|critical' /var/log/syslog ;
+  echo --cut-syslog-end ;
   date 
   ) > ~/trouble-shoot-history.txt | echo "Done, the log has been saved to ~/trouble-shoot-history.txt"`
 

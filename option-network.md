@@ -2,7 +2,7 @@
 option-**network**, gathers basic networking data with privacy switch (-z) and looks for network-manager running, copy/paste and execute **all the indented below** `via terminal`, "To View/**Share" the file**, the instructions are [here] (https://github.com/two-dogs/the-kennel/blob/master/to-share.md)
 
 `sudo inxi -U &&
- (
+ {
 date ;
  echo --opt-network-- ;
  inxi -c0 -z -MSNnxx ;
@@ -25,7 +25,7 @@ date ;
  ps -e |grep -Ei 'blue|network' ;
  echo --search ps NM/Blue end-- ;
  date
-) > ~/trouble-shoot-history.txt ;
+} > ~/trouble-shoot-history.txt ;
  echo "Done, the log has been saved to ~/trouble-shoot-history.txt" ;`
 
 ***

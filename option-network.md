@@ -4,3 +4,29 @@ option-**network**, gathers basic networking data with privacy switch (-z) and l
 `sudo inxi -U ; (date ; inxi -c0 -z -MSNnxx ; rfkill list ; mintwifi ; echo --dmesg--start ; dmesg | grep -i blue ; echo --dmesg--end ; lsmod | grep -Ei 'bluetooth|wifi|80211' ; hciconfig -a ; echo locate NM/Blue start ; ps -e |grep -Ei 'blue|network' ; echo locate NM/Blue end ; date) > ~/trouble-shoot-history.txt ; echo "Done, the log has been saved to ~/trouble-shoot-history.txt" || echo "There has been an error."`
 
 ***
+`sudo inxi -U &&
+ (
+date ;
+ echo --opt-network-- ;
+ inxi -c0 -z -MSNnxx ;
+ echo --rfkill--start ;
+ rfkill list ;
+ echo --rfkill--end ;
+ echo --mintwifi--start ;
+ mintwifi ;
+ echo --mintwifi--end ;
+ echo --dmesg--start ;
+ dmesg | grep -Ei 'blue|wifi' ;
+ echo --dmesg--end ;
+ echo --lsmod--start ;
+ lsmod | grep -Ei 'bluetooth|wifi|80211' ;
+ echo --lsmod--end ;
+ echo --hciconfig--start ;
+ hciconfig -a ;
+ echo --hciconfig--end ;
+ echo --search ps NM/Blue start-- ;
+ ps -e |grep -Ei 'blue|network' ;
+ echo --search ps NM/Blue end-- ;
+ date
+) > ~/trouble-shoot-history.txt ;
+ echo "Done, the log has been saved to ~/trouble-shoot-history.txt" ;`

@@ -1,4 +1,5 @@
 option-xorg, copy/paste and execute `via terminal` the indented below in order to gather xorg/X11/graphics output which may help in trouble shooting the issue you are having, the "To View/**Share" instructions** are [here] (https://github.com/two-dogs/the-kennel/blob/master/to-share.md).
+***
 
 `sudo inxi -U ;
  sudo updatedb ;

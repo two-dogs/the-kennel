@@ -1,5 +1,5 @@
 ***
-option-**network**, gathers basic networking data with privacy switch (-z) and looks for network-manager running, copy/paste and execute `via terminal` **all the indented below**, "To View/**Share" the file**, the instructions are [here] (https://github.com/two-dogs/the-kennel/blob/master/to-share.md)
+option-**network**, gathers basic networking data with privacy switch (-z) and looks for network-manager running, copy/paste and execute **all the indented below** `via terminal`, "To View/**Share" the file**, the instructions are [here] (https://github.com/two-dogs/the-kennel/blob/master/to-share.md)
 
 `sudo inxi -U &&
  (

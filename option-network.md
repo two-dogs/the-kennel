@@ -13,7 +13,7 @@ date ;
  mintwifi ;
  echo --mintwifi--end ;
  echo --dmesg--start ;
- dmesg | grep -Ei 'error|fail|blue|wifi' ;
+ dmesg | grep -Ei 'error|fail|blue|wifi|net:|tcp|udp|eth|wlan|ipv|80211' ;
  echo --dmesg--end ;
  echo --lsmod--start ;
  lsmod | grep -Ei 'bluetooth|wifi|80211' ;

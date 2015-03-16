@@ -14,7 +14,7 @@ option-xorg, copy/paste and execute `via terminal` the indented below in order t
   lsmod | grep -Ei 'video|nvidia|intel|i9|fglrx|nouveau|radeon|vbox' | grep -Eiv 'snd' ;
   echo --cut-lsmod-end ;
   echo --cut-term.log-start ;
-  grep -Ei 'setting up|configuration|dkms|module|install|removing|err|fail' /var/log/apt/term.log | grep -Ei 'radeon|nvidia|intel|fglrx|vbox' ;
+  grep -Ei 'setting up|configuration|dkms|module|install|removing|err|fail' /var/log/apt/term.log | grep -Ei 'radeon|nvidia|intel|fglrx|vbox|Log started|Log ended' ;
   echo --cut-term.log-end ;
   echo --cut-syslog-start ;
   grep -B1 -Ei 'fail|error|critical' /var/log/syslog ;

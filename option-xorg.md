@@ -27,3 +27,6 @@ option-xorg, copy/paste and execute `via terminal` the indented below in order t
   echo --cut-webinstall-end ;
   date 
   ) > ~/trouble-shoot-history.txt | echo "Done, the log has been saved to ~/trouble-shoot-history.txt"`
+
+***
+[a cleaner view of what is going on above is shown here] (https://github.com/two-dogs/the-kennel/raw/master/option-xorg.md)

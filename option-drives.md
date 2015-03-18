@@ -17,7 +17,7 @@ sudo inxi -U ;
  cat /etc/fstab ;
  echo --cut-fstab-end--
 } > ~/trouble-shoot-history.txt ;
- echo "Done, the log has been saved to ~/trouble-shoot-history.txt"
+ echo "Done, the log has been saved to ~/trouble-shoot-history.txt" ;
 `
 ***
 the "To View/Share" instructions are [here.](https://github.com/two-dogs/the-kennel/blob/master/to-share.md).

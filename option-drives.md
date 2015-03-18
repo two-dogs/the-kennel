@@ -20,4 +20,4 @@ sudo inxi -U ;
  echo "Done, the log has been saved to ~/trouble-shoot-history.txt"
 `
 ***
-the "To View/Share" instructions are [here.](https://github.com/two-dogs/the-kennel/blob/master/to-share.md).
+the "To View/**Share" instructions** are [here.](https://github.com/two-dogs/the-kennel/blob/master/to-share.md).

@@ -3,7 +3,7 @@ option-**drives** , copy/paste and execute via `terminal` the `indented` below,
 ***
 `
 sudo inxi -U ;
-{
+(
  echo --efi-check-- ;
  [ -d /sys/firmware/efi ] ;
  echo "EFI boot on HDD" || echo "Legacy boot on HDD" ;
@@ -16,7 +16,7 @@ sudo inxi -U ;
  echo --cut-fstab-begin-- ;
  cat /etc/fstab ;
  echo --cut-fstab-end--
-} > ~/trouble-shoot-history.txt ;
+) > ~/trouble-shoot-history.txt ;
  echo "Done, the log has been saved to ~/trouble-shoot-history.txt" ;
 `
 ***

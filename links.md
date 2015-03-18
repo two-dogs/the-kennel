@@ -38,7 +38,7 @@
 * http://blog.linuxmint.com/
 * http://packages.linuxmint.com/index.php
 * http://packages.ubuntu.com/
-* repair grub without a re-install http://sourceforge.net/p/boot-repair/home/Home/
+* http://sourceforge.net/p/boot-repair/home/Home/ **repair grub without a re-install***
 * http://askubuntu.com/questions/219942/how-to-uninstall-manually-installed-nvidia-drivers
 
 > for upgrade info 

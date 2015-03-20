@@ -1,4 +1,7 @@
 ###Option-Printer, issues with printer/printing
+***
+option-**printer**, gathers basic printer data , copy/paste and execute **all the indented below** `via terminal`, "To View/**Share" the file**, [the instructions are here] (https://github.com/two-dogs/the-kennel/blob/master/to-share.md)
+
 > copy/paste and execute `via terminal`
 ***
 `
@@ -13,3 +16,4 @@ sudo inxi -U ;
  echo "Done, the log has been saved to ~/trouble-shoot-history.txt"
  `
 ***
+[the raw view of the execute structure is here and easier to make out what is going on](https://github.com/two-dogs/the-kennel/raw/master/option-network.md)

@@ -12,7 +12,7 @@ sudo inxi -U ;
  echo ;
  lsblk -fm ;
  echo ;
- inxi -c0 -Rduplo ;
+ inxi -c0 -MSRduplo ;
  echo --cut-fstab-begin-- ;
  cat /etc/fstab ;
  echo --cut-fstab-end--

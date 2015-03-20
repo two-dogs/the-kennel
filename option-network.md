@@ -26,7 +26,7 @@ sudo inxi -U ;
  echo --search ps NM/Blue end-- ;
  date
 ) > ~/trouble-shoot-history.txt ;
- echo "Done, the log has been saved to ~/trouble-shoot-history.txt" ;
+ echo "Done, the log has been saved to ~/trouble-shoot-history.txt"
 `
 ***
 [the raw view of the execute structure is here and easier to make out what is going on](https://github.com/two-dogs/the-kennel/raw/master/option-network.md)

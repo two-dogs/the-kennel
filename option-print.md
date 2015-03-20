@@ -6,10 +6,15 @@ option-**printer**, gathers basic printer data , copy/paste and execute **all th
 sudo inxi -U ;
 (
  date ;
+ echo ;
  inxi -c0 -MS ;
+ echo ;
  ps aux | grep -Ei 'cup' ;
+ echo ;
  cat /var/log/cups/error_log ;
+ echo ;
  grep -Ei 'error|fail|cups|colord' /var/log/syslog ;
+ echo ;
  date ;
 ) > ~/trouble-shoot-history.txt ;
  echo "Done, the log has been saved to ~/trouble-shoot-history.txt"

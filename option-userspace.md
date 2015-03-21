@@ -8,7 +8,10 @@ sudo inxi -U ;
   date ;
   echo --userspace-- ;
   inxi -c0 -MSGrsxxtcm20 ;
-  grep -B1 -Ei 'error|fail' ~/.xsession-errors && date
+  echo ;
+  grep -B1 -Ei 'error|fail' ~/.xsession-errors ;
+  date ;
+  echo ;
   ) > ~/trouble-shoot-history.txt | echo "Done, the log has been saved to ~/trouble-shoot-history.txt"
   `
 ***

@@ -56,6 +56,4 @@
 
 ###Mint Mate/Cinnamon Bugs/Issues
 * https://github.com/linuxmint/Cinnamon/issues
-* http://www.linuxmint.com/rel_qiana_mate.php
-* http://www.linuxmint.com/rel_qiana_cinnamon.php
-
+* https://bugs.launchpad.net/linuxmint

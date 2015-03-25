@@ -1,4 +1,4 @@
-###Option-Printer, issues with printer/printing
+###Option-Printer, issues with printer/printing/scanning
 ***
 option-**printer**, gathers basic printer data , copy/paste and execute **all the indented below** `via terminal`, "To View/**Share" the file**, [the instructions are here] (https://github.com/two-dogs/the-kennel/blob/master/to-share.md)
 ***

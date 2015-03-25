@@ -10,4 +10,5 @@ option-**grub**, the command shown below would look for grub in /dev/sd**a** the
   echo "EFI boot on HDD" || echo "Legacy boot on HDD"
 ) > ~/trouble-shoot-history.txt ;
   echo "Done, the log has been saved to ~/trouble-shoot-history.txt"
+
 ***`

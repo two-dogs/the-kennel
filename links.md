@@ -21,6 +21,11 @@
 
 >Mint KDE
 * http://userbase.kde.org/Welcome_to_KDE_UserBase
+> When using KDE apps (Okular, Gwenview, KStars..etc)**without KDE Desktop installed**, and you're experiencing issues  run the following command:
+
+`sudo aptitude install kdelibs-bin kdelibs5-data kdelibs5-plugins`
+
+> Note: These issues **do not affect the KDE edition**. A regression in KDE 4.14 prevents these applications from working fine out of the box outside of KDE. Ref: Release Notes from LM-17.1
 
 >MInt Mate
 * http://mate-desktop.org/blog/
@@ -47,11 +52,6 @@
 * http://community.linuxmint.com/tutorial/view/2
 
 
-> When using KDE apps (Okular, Gwenview, KStars..etc)**without KDE Desktop installed**, and you're experiencing issues  run the following command:
-
-`sudo aptitude install kdelibs-bin kdelibs5-data kdelibs5-plugins`
-
-> Note: These issues **do not affect the KDE edition**. A regression in KDE 4.14 prevents these applications from working fine out of the box outside of KDE. Ref: Release Notes from LM-17.1
 
 
 

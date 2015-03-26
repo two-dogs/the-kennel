@@ -22,7 +22,7 @@ sudo inxi -U ;
  hciconfig -a ;
  echo --hciconfig--end ;
  echo --search ps NM/Blue start-- ;
- ps aux |grep -Ei 'blue|network' ;
+ ps aux | grep -Ei 'blue|smb|network' ;
  echo --search ps NM/Blue end-- ;
  date
 ) > ~/trouble-shoot-history.txt ;

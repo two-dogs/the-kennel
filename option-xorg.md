@@ -1,6 +1,5 @@
-option-xorg, copy/paste and execute `via terminal` the indented below in order to gather xorg/X11/graphics output which may help in trouble shooting the issue you are having, the "To-View/**Share" instructions** are [here] (https://github.com/two-dogs/the-kennel/blob/master/to-share.md).
+option-xorg, copy/paste and execute `via terminal` the indented below in order to gather xorg/X11/graphics output which may help in trouble shooting the issue you are having. 
 ***
-
 `sudo inxi -U ;
  sudo updatedb ;
  (
@@ -30,8 +29,10 @@ option-xorg, copy/paste and execute `via terminal` the indented below in order t
   grep -B1 -Ei 'fail|error|critical' /var/log/syslog ;
   echo --cut-syslog-end ;
   date 
-  ) > ~/trouble-shoot-history.txt | echo "Done, the log has been saved to ~/trouble-shoot-history.txt"`
-
+  ) > ~/trouble-shoot-history.txt | echo "Done, the log has been saved to ~/trouble-shoot-history.txt"
+`
+***
+The "To-View/**Share" instructions** are [here] (https://github.com/two-dogs/the-kennel/blob/master/to-share.md).
 ***
 [a cleaner view of what is going on above is shown here] (https://github.com/two-dogs/the-kennel/raw/master/option-xorg.md)
 ***

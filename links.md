@@ -13,7 +13,21 @@
 * http://community.linuxmint.com/tutorial/view/100
 * http://en.wikipedia.org/wiki/Linux_Mint
 
->Mint Cinnamon
+###Mint Install/Upgrade/Repair
+* http://www.linuxmint.com/oldreleases.php & 
+* http://www.linuxmint.com/download.php & 
+* http://blog.linuxmint.com/
+* http://packages.linuxmint.com/index.php
+* http://packages.ubuntu.com/
+* http://sourceforge.net/p/boot-repair/home/Home/ **repair grub/mbr easily without a re-install**
+* the caveman method of grub-only repair is shown[ here](http://community.linuxmint.com/tutorial/view/245)
+* http://askubuntu.com/questions/219942/how-to-uninstall-manually-installed-nvidia-drivers
+
+> for upgrade info 
+* http://blog.linuxmint.com/?p=2725
+* http://community.linuxmint.com/tutorial/view/2
+
+> Mint Cinnamon
 * http://www.techsupportalert.com/content/tips-and-tricks-linux-mint-after-installation-mint-17-cinnamon-edition.htm if you have questions the author can be found here, https://plus.google.com/+JojoYee?rel=author
 * https://github.com/Koutch
 * http://cinnamon.linuxmint.com/
@@ -35,20 +49,6 @@
 
 >Mint Users Guide
 * http://www.linuxmint.com/documentation/user-guide/
-
-###Mint Install/Upgrade/Repair
-* http://www.linuxmint.com/oldreleases.php & 
-* http://www.linuxmint.com/download.php & 
-* http://blog.linuxmint.com/
-* http://packages.linuxmint.com/index.php
-* http://packages.ubuntu.com/
-* http://sourceforge.net/p/boot-repair/home/Home/ **repair grub/mbr easily without a re-install**
-* the caveman method of grub-only repair is shown[ here](http://community.linuxmint.com/tutorial/view/245)
-* http://askubuntu.com/questions/219942/how-to-uninstall-manually-installed-nvidia-drivers
-
-> for upgrade info 
-* http://blog.linuxmint.com/?p=2725
-* http://community.linuxmint.com/tutorial/view/2
 
 ###Mint Mate/Cinnamon Bugs/Issues
 * https://github.com/linuxmint/Cinnamon/issues

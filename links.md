@@ -31,6 +31,7 @@
 
 >Mint XFCE
 * http://docs.xfce.org/
+* http://www.xfce.org/
 
 >Mint Users Guide
 * http://www.linuxmint.com/documentation/user-guide/
@@ -48,10 +49,6 @@
 > for upgrade info 
 * http://blog.linuxmint.com/?p=2725
 * http://community.linuxmint.com/tutorial/view/2
-
-
-
-
 
 ###Mint Mate/Cinnamon Bugs/Issues
 * https://github.com/linuxmint/Cinnamon/issues

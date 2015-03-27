@@ -33,21 +33,21 @@
 * http://cinnamon.linuxmint.com/
 * http://all-tech-thoughts.blogspot.com/2014/09/how-to-add-gmusicbrowser-to-media-menu.html  add other music players to play list, i dont know how safe that is, added Kodi and kmplayer  to list, worked mostly, cant control player from the applet, if some one manages to please give me a shout. ( a re-install of cinnamon will wipe the tweak, keep a safe copy else.
 
->Mint KDE
+> Mint KDE
 * http://userbase.kde.org/Welcome_to_KDE_UserBase
 * When using KDE apps (Okular, Gwenview, KStars..etc)**without KDE Desktop installed**, and you're experiencing issues  run the following command: `sudo aptitude install kdelibs-bin kdelibs5-data kdelibs5-plugins`
 
 > Note: These issues **do not affect the KDE edition**. A regression in KDE 4.14 prevents these applications from working fine out of the box outside of KDE. Ref: Release Notes from LM-17.1
 
->MInt Mate
+> MInt Mate
 * http://mate-desktop.org/blog/
 * http://wiki.mate-desktop.org/
 
->Mint XFCE
+> Mint XFCE
 * http://docs.xfce.org/
 * http://www.xfce.org/
 
->Mint Users Guide
+> Mint Users Guide
 * http://www.linuxmint.com/documentation/user-guide/
 
 ###Mint Mate/Cinnamon Bugs/Issues

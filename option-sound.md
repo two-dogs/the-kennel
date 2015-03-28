@@ -12,6 +12,8 @@ sudo inxi -U ;
   echo ;
   dmesg | grep -Ei 'sound|snd|hda' ;
   echo ;
+  ps aux | grep -Ei 'pulse|rtkit' ;
+  echo ;
   date ;
 ) > ~/trouble-shoot-history.txt ;
  echo "Done, the log has been saved to ~/trouble-shoot-history.txt" 

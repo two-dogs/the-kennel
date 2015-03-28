@@ -6,8 +6,14 @@ a quick check of what the system sees presently since boot via dmesg specific to
 `
 sudo inxi -U ;
 ( 
+  echo --option-sound-audio-- ;
+  date ;
+  echo ;
   inxi -c0 -MSGAxx ;
-  dmesg | grep -Ei 'sound|snd|hda' 
+  echo ;
+  dmesg | grep -Ei 'sound|snd|hda'
+  echo ;
+  date ;
 ) > ~/trouble-shoot-history.txt ;
  echo "Done, the log has been saved to ~/trouble-shoot-history.txt" 
  `

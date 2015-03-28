@@ -18,11 +18,7 @@ sudo inxi -U ;
  echo "Done, the log has been saved to ~/trouble-shoot-history.txt" 
  `
 ***
-a quick check can be done by opening a terminal, and executing; 
-
-`alsamixer`
-
-for the card you have set in sound configuration, 
+for the card you have set in sound configuration, you can use `alsamixer` via terminal.
 
 * insure that '[Playback]' in case of sound out,
 * and [Capture] in case of microphones does not show MM(mute)

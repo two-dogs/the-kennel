@@ -5,6 +5,7 @@ copy/paste and execute `via terminal` the indented below in order to gather **_s
 sudo inxi -U ;
 (
   date ;
+  echo --option-system-- ;
   [ -d /sys/firmware/efi ] ;
   echo "EFI boot on HDD" || echo "Legacy boot on HDD" ;
   echo ;

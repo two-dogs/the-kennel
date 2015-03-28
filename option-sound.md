@@ -11,7 +11,7 @@ sudo inxi -U ;
   echo ;
   inxi -c0 -MSGAxx ;
   echo ;
-  dmesg | grep -Ei 'sound|snd|hda'
+  dmesg | grep -Ei 'sound|snd|hda' ;
   echo ;
   date ;
 ) > ~/trouble-shoot-history.txt ;

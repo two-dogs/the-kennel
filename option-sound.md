@@ -10,7 +10,7 @@ sudo inxi -U ;
   dmesg | grep -Ei 'sound|snd|hda' ;
   ) > ~/trouble-shoot-history.txt ;
  echo "Done, the log has been saved to ~/trouble-shoot-history.txt" 
-
+ `
 ***
 a quick check can be done by opening a terminal, and executing; 
 

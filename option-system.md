@@ -9,9 +9,9 @@ sudo inxi -U ;
   echo "EFI boot on HDD" || echo "Legacy boot on HDD" ;
   echo ;
   inxi -c0 -Fzxxtcm5 ;
-  echo ;
+  echo --start-syslog-- ;
   grep -B1 -A1 -Ei 'fail|error|critical' /var/log/syslog ;
-  echo ;
+  echo --start-dmesg-- ;
   dmesg | grep -B1 -A1 -Ei 'fail|error|critical' ;
   date
   ) > ~/trouble-shoot-history.txt | echo "Done, the log has been saved to ~/trouble-shoot-history.txt"

@@ -5,7 +5,7 @@ sudo inxi -U ;
 (
  date ;
  echo --opt-network-- ;
- inxi -c0 -z -MSNnxx ;
+ inxi -c0 -z -MSpNnxx ;
  echo --rfkill--start ;
  rfkill list ;
  echo --rfkill--end ;

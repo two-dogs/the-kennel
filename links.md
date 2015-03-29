@@ -19,6 +19,7 @@
 * http://blog.linuxmint.com/
 * http://packages.linuxmint.com/index.php
 * http://packages.ubuntu.com/
+* https://github.com/two-dogs/the-kennel/blob/master/uefi-issues.md UEFI, deal with it
 * http://sourceforge.net/p/boot-repair/home/Home/ **repair grub/mbr easily without a re-install**
 * the caveman method of grub-only repair is shown[ here](http://community.linuxmint.com/tutorial/view/245)
 * http://askubuntu.com/questions/219942/how-to-uninstall-manually-installed-nvidia-drivers

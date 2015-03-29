@@ -10,6 +10,8 @@ sudo inxi -U ;
   echo ;
   inxi -c0 -MSGAxx ;
   echo ;
+  cat /proc/asound/cards ;
+  echo ;
   dmesg | grep -Ei 'sound|snd|hda' ;
   echo ;
   ps aux | grep -Ei 'pulse|rtkit' ;

@@ -5,7 +5,7 @@ option-xorg, copy/paste and execute `via terminal` the indented below in order t
  (
   date ;
   echo --option-xorg-- ;
-  inxi -c0 -MSsrGxx ;
+  inxi -c0 -MSIsrGxx ;
   echo --cut-xrandr-start ;
   xrandr | grep -Ewi 'connected' ;
   echo --cut-xrandr-end ;

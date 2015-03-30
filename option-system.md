@@ -13,7 +13,7 @@ sudo inxi -U ;
   inxi -c0 -Fzxxtcm5 ;
   echo --start-syslog-- ;
   grep -B1 -Ei 'fail|error|critical' /var/log/syslog ;
-  if grep -q vmmon /var/log/syslog ; then echo found vmware ; else echo vmware not found ; fi ;
+  if grep -q vmmon /var/log/syslog ; then echo found vmware ; fi ;
   echo --start-dmesg-- ;
   dmesg | grep -B1 -Ei 'fail|error|critical' ;
   date

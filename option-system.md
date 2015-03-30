@@ -12,11 +12,10 @@ sudo inxi -U ;
   inxi -c0 -Fzxxtcm5 ;
   echo --start-syslog-- ;
   grep -B1 -Ei 'fail|error|critical' /var/log/syslog ;
-  if grep -q 'error' /var/log/syslog ; then echo found errors ; fi ;
   echo --start-dmesg-- ;
   dmesg | grep -B1 -Ei 'fail|error|critical' ;
   date
-  ) > ~/trouble-shoot-history.txt | echo "Done, the log has been saved to ~/trouble-shoot-history.txt"
+) > ~/trouble-shoot-history.txt | echo "Done, the log has been saved to ~/trouble-shoot-history.txt"
 `
 ***
  "To Share" instructions are [here.](https://github.com/two-dogs/the-kennel/blob/master/to-share.md).

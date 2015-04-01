@@ -17,7 +17,7 @@ option-xorg, copy/paste and execute `via terminal` the indented below in order t
   grep -Ei 'setting up|configuration|dkms|module|install|removing|err|fail' /var/log/apt/term.log | grep -Ei 'radeon|nvidia|intel|fglrx|vbox|Log started|Log ended' ;
   echo --cut-term.log-end ;
   echo --cut-dpkg-start-- ;
-  dpkg -l | grep -Ei 'mesa|nvidia|nouveau|fglrx|radeon|xserver-xorg-video' ;
+  dpkg -l | grep -Ei 'nvidia|fglrx' ;
   echo --cut-dpkg-end-- ;
   echo --cut-Xorg.0.log-start ;
   grep -B1 -Ewi 'kernel|conf|WW|EE' /var/log/Xorg.0.log ;

@@ -23,6 +23,7 @@
 * http://sourceforge.net/p/boot-repair/home/Home/ **repair grub/mbr easily without a re-install**
 * the caveman method of grub-only repair is shown[ here](http://community.linuxmint.com/tutorial/view/245)
 * http://askubuntu.com/questions/219942/how-to-uninstall-manually-installed-nvidia-drivers
+* https://wiki.archlinux.org/index.php/NTFS-3G **ntfs** wiki by the arch smart-heads
 
 > for upgrade info 
 * http://blog.linuxmint.com/?p=2725

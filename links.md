@@ -16,7 +16,7 @@
 ###Mint Install/Upgrade/Repair
 * http://www.linuxmint.com/oldreleases.php & 
 * http://www.linuxmint.com/download.php &
-* http://linuxmint.com/rel_maya.php **Mint version 13/Maya** 
+* [**Mint version 13/Maya**](http://linuxmint.com/rel_maya.php)  
 * http://blog.linuxmint.com/
 * http://packages.linuxmint.com/index.php
 * http://packages.ubuntu.com/

@@ -37,7 +37,7 @@ The "To-View/**Share" instructions** are [here] (https://github.com/two-dogs/the
 ***
 [a cleaner view of what is going on above is shown here] (https://github.com/two-dogs/the-kennel/raw/master/option-xorg.md)
 ***
-ref: https://wiki.ubuntu.com/X/Config/Resolution 
+ref: https://wiki.ubuntu.com/X/Config/Resolution &  https://wiki.ubuntu.com/X/Config/Resolution#Adding_undetected_resolutions to **add resolutions not shown** on display options.
 ***
 for **newer Nvidia drivers**, thru software-sources 'add ppa' menu, add `ppa:xorg-edgers/ppa` , the newer drivers should then be available via Driver-Manager.
 ***

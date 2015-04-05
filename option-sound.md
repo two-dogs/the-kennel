@@ -4,6 +4,7 @@ option-**sound**, gathers basic sound driver server data, copy/paste and execute
 ***
 `
 sudo inxi -U ;
+sudo alsa force-reload ;
 ( 
   echo --option-sound-audio-- ;
   date ;

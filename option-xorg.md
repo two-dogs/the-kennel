@@ -39,5 +39,5 @@ The "To-View/**Share" instructions** are [here] (https://github.com/two-dogs/the
 ***
 ref: https://wiki.ubuntu.com/X/Config/Resolution 
 ***
-for **newer Nvidia drivers**, add ppa `ppa:xorg-edgers/ppa` thru software-sources 'add ppa' menu, the newer drivers should then be available via Driver-Manager.
+for **newer Nvidia drivers**, thru software-sources 'add ppa' menu, add `ppa:xorg-edgers/ppa` , the newer drivers should then be available via Driver-Manager.
 ***

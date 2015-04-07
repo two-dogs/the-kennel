@@ -42,5 +42,6 @@ to **add resolutions not shown** on display options;
 * http://www.arachnoid.com/modelines/ & 
 * https://wiki.ubuntu.com/X/Config/Resolution#Adding_undetected_resolutions 
 ***
+
 for **newer Nvidia drivers**, thru software-sources 'add ppa' menu, add `ppa:xorg-edgers/ppa` , the newer drivers should then be available via Driver-Manager.
 ***

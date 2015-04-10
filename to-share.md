@@ -12,7 +12,7 @@ sudo apt install gist
 gist-paste ~/trouble-shoot-history.txt
 `
 
-* you should get a link to a web page(gist) and you want to share the link.
+* you should get a link to a web page(gist) and you want to share the link on channel.
 
 > an alternate method to share the the file content is use https://gist.github.com/ or http://pastie.org or http://dpaste.com or what ever pastebin you prefer.
 

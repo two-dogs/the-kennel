@@ -56,3 +56,4 @@
 ###Mint Mate/Cinnamon Bugs/Issues
 * https://github.com/linuxmint/Cinnamon/issues
 * https://bugs.launchpad.net/linuxmint
+* https://github.com/linuxmint/Cinnamon/issues/3909#issuecomment-90305671 ***cinnamon breaks because of gtk version 3.16, and fix***

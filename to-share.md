@@ -14,6 +14,6 @@ gist-paste ~/trouble-shoot-history.txt
 
 * you should get a link to a web page(gist) and you want to share the link on channel.
 
-> an alternate method to share the the file content is use https://gist.github.com/ or http://pastie.org or http://dpaste.com or what ever pastebin you prefer.
+> an **alternate** method to share the the file content is use https://gist.github.com/ or http://pastie.org or http://dpaste.com or what ever pastebin you prefer.
 
 > to view the content of `~/trouble-shoot-history.txt` use the file-manager for your desktop (`caja/nemo/dolphin/etc`) to locate and click to open.

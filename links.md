@@ -60,8 +60,10 @@
 * https://github.com/linuxmint/Cinnamon/issues/3909#issuecomment-90305671 & https://bbs.archlinux.org/viewtopic.php?id=195857 ***cinnamon breaks because of gtk version 3.16, and fix***
 
 ###Drivers
-for **newer Nvidia drivers**, thru software-sources 'add ppa' menu, add `ppa:xorg-edgers/ppa` , the newer drivers should then be available via Driver-Manager.
+for **newer AMD/Nvidia drivers**, 
+* via software-sources 'add ppa' option, add `ppa:xorg-edgers/ppa` , 
+* the newer drivers should then be available via Driver-Manager.
 ***
-driver info: [AMD's New Open-Source "AMDGPU" Linux Driver Supports The R9 285 Tonga, and as of 04-22-15 Radeon did not,
-](http://www.phoronix.com/scan.php?page=news_item&px=AMD-AMDGPU-Released)
+driver info: [AMD's New Open-Source "AMDGPU" Linux Driver Supports The R9 285 Tonga, ](http://www.phoronix.com/scan.php?page=news_item&px=AMD-AMDGPU-Relea* and as of 04-22-15 Radeon did not,sed)
+* and as of 04-22-15 Radeon did not,
 ***

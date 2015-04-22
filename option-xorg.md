@@ -45,6 +45,6 @@ to **add resolutions not shown** on display options;
 for **newer Nvidia drivers**, thru software-sources 'add ppa' menu, add `ppa:xorg-edgers/ppa` , the newer drivers should then be available via Driver-Manager.
 
 ***
-driver info: [AMD's New Open-Source "AMDGPU" Linux Driver Supports The R9 285
+driver info: [AMD's New Open-Source "AMDGPU" Linux Driver Supports The R9 285 and as of 04-22-15 Radeon did not, 
 Tonga](http://www.phoronix.com/scan.php?page=news_item&px=AMD-AMDGPU-Released)
 ***

@@ -26,6 +26,7 @@
 * http://askubuntu.com/questions/219942/how-to-uninstall-manually-installed-nvidia-drivers
 * https://wiki.archlinux.org/index.php/NTFS-3G **ntfs** wiki by the arch smart-heads
 * http://kernel.ubuntu.com/~kernel-ppa/mainline/ **the most recent kernel/headers**
+* http://askubuntu.com/questions/340156/install-ubuntu-from-iso-image-directly-from-hard-disk-of-a-system-running-linux **yeap, the no dvd/cd/usb but i want to install and i have the iso downloaded method*** 
 
 > for upgrade info 
 * http://blog.linuxmint.com/?p=2725

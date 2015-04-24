@@ -14,7 +14,7 @@
 * http://en.wikipedia.org/wiki/Linux_Mint
 
 ###Mint Install/Upgrade/Repair 
-* [The easy way](http://lmgtfy.com/?q=linux%2Bmint%2Binstall%2Bupgrade#)
+* [The easy **click** way](http://lmgtfy.com/?q=linux%2Bmint%2Binstall%2Bupgrade#)
 * http://www.linuxmint.com/oldreleases.php & 
 * http://www.linuxmint.com/download.php &
 * [**Mint version 13/Maya**](http://linuxmint.com/rel_maya.php)  

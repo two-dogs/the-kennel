@@ -4,6 +4,7 @@ copy/paste and execute `via terminal` the indented below in order to gather **_s
 ***
 `
 sudo inxi -U ;
+sudo update-pciids ;
 (
   date ;
   echo --userspace-- ;

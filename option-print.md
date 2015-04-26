@@ -4,6 +4,7 @@ option-**printer**, gathers basic printer data , copy/paste and execute **all th
 ***
 `
 sudo inxi -U ;
+sudo update-pciids ;
 (
  date ;
  echo ;

@@ -2,6 +2,7 @@ option-**network**, gathers basic networking data with privacy switch (-z) and l
 ***
 `
 sudo inxi -U ;
+sudo update-pciids ;
 (
  date ;
  echo --opt-network-- ;

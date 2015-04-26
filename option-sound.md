@@ -5,6 +5,7 @@
 ***
 `
 sudo inxi -U ;
+sudo update-pciids ;
 sudo alsa force-reload ;
 ( 
   echo --option-sound-audio-- ;

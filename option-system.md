@@ -14,9 +14,11 @@ sudo update-pciids ;
   inxi -c0 -Fzxxtcm5 ;
   echo --start-syslog-- ;
   grep -B1 -Ei 'fail|error|critical' /var/log/syslog ;
+  echo --end-syslog-- ;
   if grep -q vmmon /var/log/syslog ; then echo found vmware ; fi ;
   echo --start-dmesg-- ;
   dmesg | grep -B1 -Ei 'fail|error|critical' ;
+  echo --end-dmesg-- ;
   date
 ) > ~/trouble-shoot-history.txt | echo "Done, the log has been saved to ~/trouble-shoot-history.txt"
 `

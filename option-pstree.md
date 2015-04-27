@@ -18,7 +18,7 @@ sudo apt install gist ;
   echo --end-pstree-- ;
   date
 ) > ~/trouble-shoot-history.txt | echo "Done, the log has been saved to ~/trouble-shoot-history.txt" ;
-gist -aps~/trouble-shoot-history.txt  ; echo share link above, looks similar to http://git.io/xxxxx 
+gist-paste -aps ~/trouble-shoot-history.txt  ; echo share link above, looks similar to http://git.io/xxxxx 
 `
 ***
  Other Share instructions are [here.](https://github.com/two-dogs/the-kennel/blob/master/to-share.md).

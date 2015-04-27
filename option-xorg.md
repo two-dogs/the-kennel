@@ -9,7 +9,7 @@ option-xorg, copy/paste and **execute** `via terminal` the `indented` below in o
   echo --on-live-session?-- ;
   inxi -c0 -MSGIsprxx ;
   echo --cut-xrandr-start ;
-  xrandr | grep -Ewi 'connected' ;
+  xrandr ;
   echo --cut-xrandr-end ;
   echo --cut-lsmod-start ;
   lsmod | grep -Ei 'video|nvidia|intel|i9|fglrx|nouveau|radeon|vbox' | grep -Eiv 'snd' ;

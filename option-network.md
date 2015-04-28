@@ -14,7 +14,7 @@ sudo update-pciids ;
  mintwifi ;
  echo --mintwifi--end ;
  echo --dmesg--start ;
- dmesg | grep -Ei 'error|fail|blue|wifi|net:|hid|tcp|udp|eth|wlan|ipv|80211' ;
+ dmesg | grep -Ei 'error|fail|blue|wifi|net:|hid|tcp|udp|eth|wlan|ipv|80211|dnsmasq' ;
  echo --dmesg--end ;
  echo --lsmod--start ;
  lsmod | grep -Ei 'bluetooth|wifi|80211|hid' ;
@@ -23,7 +23,7 @@ sudo update-pciids ;
  hciconfig -a ;
  echo --hciconfig--end ;
  echo --search ps NM/Blue start-- ;
- ps aux | grep -Ei 'blue|smb|nmbd|winbind|network' ;
+ ps aux | grep -Ei 'blue|smb|nmbd|winbind|network|dnsmasq' ;
  echo --search ps NM/Blue end-- ;
  date
 ) > ~/trouble-shoot-history.txt ;

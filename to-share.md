@@ -18,6 +18,6 @@ gist-paste -aps ~/trouble-shoot-history.txt
 
 > to view the content of `~/trouble-shoot-history.txt` use the file-manager for your desktop (`caja/nemo/dolphin/etc`) to locate and click to open.
 
-> if all else fails, there may be someone who can possibly assist you on http://spotchat.org/connect/ channel: #pariah 
+> if all else fails, irc://spotchat.org/#pariah or http://spotchat.org/connect/ channel: #pariah , i am usually there or leave a message via '.tell two_dogs blah blah here is the gist  
 
 http://pariah.0wn0.com/

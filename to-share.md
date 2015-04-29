@@ -17,3 +17,7 @@ gist-paste -aps ~/trouble-shoot-history.txt
 > an **alternate** method to share the the file content or terminal output is to use https://gist.github.com/ or http://pastie.org or http://dpaste.com or what ever pastebin you prefer.
 
 > to view the content of `~/trouble-shoot-history.txt` use the file-manager for your desktop (`caja/nemo/dolphin/etc`) to locate and click to open.
+
+> if all else fails, there may be someone who can possibly assist you on http://spotchat.org/connect/ channel: #pariah 
+
+http://pariah.0wn0.com/

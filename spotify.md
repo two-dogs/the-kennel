@@ -29,20 +29,17 @@ So how do you get it? We've packaged it for Debian Squeeze/Ubuntu.
 ### Fedora
 > Download the repo rpm  (subsitute  fc21 and x86_64 for your fedora-release and arch if they are different)
 
-`sudo yum install yum install http://trash.ulyaoth.net/trash/rpm/ulyaoth-1.0.0-1.fc21.x86_64.rpm `
+`sudo wget -O- /etc/yum.repos.d/fedora-spotify.repo http://negativo17.org/repos/fedora-spotify.repo`
 
 >Install Spotify
 
-`sudo yum install spotify-client `
+`sudo dnf install spotify `
 
 > (optional to add full local play / offline play functionality)
 
-`sudo yum install ffmpeg ffmpeg-compat `
+`sudo dnf install ffmpeg-compat `
 
 > If you receive a gpgkey error after installing the repo rpm :
-> run with --nogpg (not recommended for safety reasons  on any pkg unless you know the key and it matches the one in the warning )i.e.  
-
-`sudo yum install spotify-client --nogpg `
 
 > obtain the keys and reattempt
 

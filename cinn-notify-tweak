@@ -8,7 +8,7 @@
 
 [07:16] <Two_Dogs> mtwebster: works beautifully on osuse TW , cinnamon factory repo, thank you
 
-chunk of /usr/share/cinnamon/applets/notifications@cinnamon.org/notifications@cinnamon.org after tweak;
+chunk of /usr/share/cinnamon/applets/notifications@cinnamon.org after tweak;
         // Setup the notification container.
         this._maincontainer = new St.BoxLayout({name: 'traycontainer', vertical: true});
         this._notificationbin = new St.BoxLayout({vertical:true});

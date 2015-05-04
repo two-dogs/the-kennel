@@ -12,7 +12,7 @@ chunk of /usr/share/cinnamon/applets/notifications@cinnamon.org/notifications@ci
         // Setup the notification container.
         this._maincontainer = new St.BoxLayout({name: 'traycontainer', vertical: true});
         this._notificationbin = new St.BoxLayout({vertical:true});
-	      this._notificationbin.set_pack_start(true);
+	this._notificationbin.set_pack_start(true);
         this.button_label_box = new St.BoxLayout();
         
   works great so far, on

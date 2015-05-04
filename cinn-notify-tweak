@@ -1,0 +1,25 @@
+[06:58] <Two_Dogs> i want notifications@cinnamon.org to keep buffer in last-seen first on list, presently the list is first-seen first on list, i looked at the script, i cant make sense of it, there is a remarks statement indicating the code section, but that is about it? where should i ask? 
+
+[07:04] <mtwebster> Two_Dogs: you can try editing the notification applet, after around line 52 (this._notificationbin = new...)  add this._notificationbin.set_pack_start(true)
+
+[07:04] <mtwebster> no guarantee, haven't tested
+
+[07:05] <Two_Dogs> mtwebster: i will try thanks
+
+[07:16] <Two_Dogs> mtwebster: works beautifully on osuse TW , cinnamon factory repo, thank you
+
+chunk of /usr/share/cinnamon/applets/notifications@cinnamon.org/notifications@cinnamon.org after tweak;
+        // Setup the notification container.
+        this._maincontainer = new St.BoxLayout({name: 'traycontainer', vertical: true});
+        this._notificationbin = new St.BoxLayout({vertical:true});
+	      this._notificationbin.set_pack_start(true);
+        this.button_label_box = new St.BoxLayout();
+        
+  works great so far, on
+  
+System:    Host: linux-gumo Kernel: 4.0.0-1-desktop x86_64 (64 bit gcc: 4.8.3)
+           Desktop: Cinnamon 2.4.8 (Gtk 3.16.2) dm: kdm
+           Distro: openSUSE 20150430 (Tumbleweed)
+  
+  Active zypp sources in file: /etc/zypp/repos.d/X11_Cinnamon_Factory.repo
+  X11_Cinnamon_Factory ~ http://download.opensuse.org/repositories/X11:/Cinnamon:/Factory/openSUSE_Tumbleweed/

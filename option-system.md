@@ -12,6 +12,9 @@ sudo update-pciids ;
   echo "EFI boot on HDD" || echo "Legacy boot on HDD" ;
   echo ;
   inxi -c0 -Fzxxtcm5 ;
+  echo --grub-kernel-options-start--
+  grep -Ei 'GRUB_CMDLINE_' /etc/default/grub ;
+  echo --grub-kernel-options-end--
   echo --start-syslog-- ;
   grep -B1 -Ei 'fail|error|critical' /var/log/syslog ;
   echo --end-syslog-- ;

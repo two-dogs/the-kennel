@@ -8,6 +8,9 @@ option-xorg, copy/paste and **execute** `via terminal` the `indented` below in o
   echo --option-xorg-- ;
   echo --on-live-session?-- ;
   inxi -c0 -MSGIsprxx ;
+  echo --grub-kernel-options-start-- ;
+  grep -Ei 'GRUB_CMDLINE_' /etc/default/grub ;
+  echo --grub-kernel-options-end-- ;
   echo --cut-xrandr-start ;
   xrandr ;
   echo --cut-xrandr-end ;

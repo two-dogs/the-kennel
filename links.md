@@ -38,7 +38,6 @@
 * http://www.techsupportalert.com/content/tips-and-tricks-linux-mint-after-installation-mint-17-cinnamon-edition.htm if you have questions the author can be found here, https://plus.google.com/+JojoYee?rel=author
 * https://github.com/Koutch
 * http://cinnamon.linuxmint.com/
-* http://all-tech-thoughts.blogspot.com/2014/09/how-to-add-gmusicbrowser-to-media-menu.html  add other music players to play list, i dont know how safe that is, added Kodi and kmplayer  to list, worked mostly, cant control player from the applet, if some one manages to please give me a shout. ( a re-install of cinnamon will wipe the tweak, keep a safe copy else.
 
 > Mint KDE
 * http://userbase.kde.org/Welcome_to_KDE_UserBase
@@ -57,12 +56,13 @@
 > Mint Users Guide
 * http://www.linuxmint.com/documentation/user-guide/
 
-###Mint Cinnamon Bugs/Issues
+###Mint Cinnamon Bugs/Issues/Tweaks
 * [Cinnamon Bugs](https://github.com/linuxmint/Cinnamon/labels/BUG)
 * [Issues, complaints & wish list](https://github.com/linuxmint/Cinnamon/issues)
 * [cinnamon dev test packages area, worth a look if having issues](https://github.com/linuxmint/Cinnamon/issues/4072)
 * [***cinnamon breaks because of gtk version 3.16, and fix***](https://github.com/linuxmint/Cinnamon/issues/3909#issuecomment-90305671)
 * [***cinnamon breaks because of gtk version 3.16, and fix part-2***](https://bbs.archlinux.org/viewtopic.php?id=195857)
+* [Add other music players to play list, i dont know how safe that is, i added Kodi and kmplayer to list, worked mostly, cant control player from the applet, if some one manages to please give me a shout. ( a re-install or upgrade of cinnamon will wipe the tweak, keep a restore or else.](http://all-tech-thoughts.blogspot.com/2014/09/how-to-add-gmusicbrowser-to-media-menu.html)
 
 
 ###Mint Mate Bugs/Issues

@@ -60,9 +60,10 @@
 ###Mint Cinnamon Bugs/Issues
 * [Cinnamon Bugs](https://github.com/linuxmint/Cinnamon/labels/BUG)
 * [Issues, complaints & wish list](https://github.com/linuxmint/Cinnamon/issues)
+* [cinnamon dev test packages area, worth a look if having issues](https://github.com/linuxmint/Cinnamon/issues/4072)
 * [***cinnamon breaks because of gtk version 3.16, and fix***](https://github.com/linuxmint/Cinnamon/issues/3909#issuecomment-90305671)
 * [***cinnamon breaks because of gtk version 3.16, and fix part-2***](https://bbs.archlinux.org/viewtopic.php?id=195857)
-* [cinnamon dev test packages area, worth a look if having issues](https://github.com/linuxmint/Cinnamon/issues/4072)
+
 
 ###Mint Mate Bugs/Issues
 * https://bugs.launchpad.net/linuxmint

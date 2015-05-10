@@ -19,5 +19,5 @@ echo "Please wait...." ;
 echo "Done, the log has been saved to ~/trouble-shoot-history.txt"
 `
 ***
-"To Share" instructions are [here.](https://github.com/two-dogs/the-kennel/wiki/trouble-shoot-history#to-share).
+"To Share" instructions are [here.](https://github.com/two-dogs/the-kennel/blob/master/to-share.md).
 ***

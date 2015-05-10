@@ -41,7 +41,7 @@ The "To-View/**Share" instructions** are [here] (https://github.com/two-dogs/the
 ***
 [a cleaner view of what is going on above is shown here] (https://github.com/two-dogs/the-kennel/raw/master/option-xorg.md)
 ***
-to **add resolutions not shown** on display options; 
+### to **add resolutions not shown** on display options; 
 * https://wiki.ubuntu.com/X/Config/Resolution & 
 * http://www.arachnoid.com/modelines/ & 
 * https://wiki.ubuntu.com/X/Config/Resolution#Adding_undetected_resolutions

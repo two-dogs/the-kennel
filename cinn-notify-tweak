@@ -1,3 +1,5 @@
+.......... a method to reverse notifications list order to last seen first on list, asked the gurus;
+
 [06:58] <Two_Dogs> i want notifications@cinnamon.org to keep buffer in last-seen first on list, presently the list is first-seen first on list, i looked at the script, i cant make sense of it, there is a remarks statement indicating the code section, but that is about it? where should i ask? 
 
 [07:04] <mtwebster> Two_Dogs: you can try editing the notification applet, after around line 52 (this._notificationbin = new...)  add this._notificationbin.set_pack_start(true)

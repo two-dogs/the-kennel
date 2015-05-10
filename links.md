@@ -22,13 +22,13 @@
 * http://blog.linuxmint.com/
 * http://packages.linuxmint.com/index.php
 * http://packages.ubuntu.com/
-* https://github.com/two-dogs/the-kennel/blob/master/uefi-issues.md **UEFI**, deal with it
-* http://sourceforge.net/p/boot-repair/home/Home/ **repair grub/mbr easily without a re-install**
+* [**UEFI**, deal with it](https://github.com/two-dogs/the-kennel/blob/master/uefi-issues.md)
+* [**repair grub/mbr easily without a re-install**](http://sourceforge.net/p/boot-repair/home/Home/)
 * the caveman method of grub-only repair is shown[ here](http://community.linuxmint.com/tutorial/view/245)
-* http://askubuntu.com/questions/219942/how-to-uninstall-manually-installed-nvidia-drivers
-* https://wiki.archlinux.org/index.php/NTFS-3G **ntfs** wiki by the arch smart-heads
-* http://kernel.ubuntu.com/~kernel-ppa/mainline/ **the most recent kernel/headers**
-* http://askubuntu.com/questions/340156/install-ubuntu-from-iso-image-directly-from-hard-disk-of-a-system-running-linux **yeap, the no dvd/cd/usb but i want to install and i have the iso downloaded method*** 
+* [how-to-uninstall-manually-installed-nvidia-drivers](http://askubuntu.com/questions/219942/how-to-uninstall-manually-installed-nvidia-drivers)
+* [**ntfs** wiki by the arch smart-heads](https://wiki.archlinux.org/index.php/NTFS-3G)
+* [**the most recent kernel/headers**](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
+* [**yeap, the no dvd/cd/usb but i want to install and i have the iso downloaded method***]( http://askubuntu.com/questions/340156/install-ubuntu-from-iso-image-directly-from-hard-disk-of-a-system-running-linux)
 
 > for upgrade info 
 * http://blog.linuxmint.com/?p=2725

@@ -9,7 +9,7 @@
 ###Mint specific documentation;
 * [The easy **click** way](http://lmgtfy.com/?q=mint+linux+manual)
 * http://www.linuxmint.com/
-* http://www.linuxmint.com/documentation.php the manual, the book, the how-to, etc
+* [the manual, the book, the how-to, etc](http://www.linuxmint.com/documentation.php)
 * http://segfault.linuxmint.com/category/general/
 * http://community.linuxmint.com/tutorial/view/100
 * http://en.wikipedia.org/wiki/Linux_Mint

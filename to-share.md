@@ -10,7 +10,7 @@ sudo apt install gist
 * and to share the content via a gist link;
 
 `
-gist-paste -aps ~/trouble-shoot-history.txt
+gist-paste -sap ~/trouble-shoot-history.txt
 `
 
 * you should get a link that looks similar to http://git.io/xxxxx , and you want to share the link on channel.

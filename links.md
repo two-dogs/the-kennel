@@ -14,7 +14,7 @@
 * http://community.linuxmint.com/tutorial/view/100
 * http://en.wikipedia.org/wiki/Linux_Mint
 
-###Mint Install/Upgrade/Repair 
+###Mint Install 
 * [The easy **click** way](http://lmgtfy.com/?q=linux%2Bmint%2Binstall%2Bupgrade#)
 * http://www.linuxmint.com/oldreleases.php & 
 * http://www.linuxmint.com/download.php &
@@ -22,6 +22,7 @@
 * http://blog.linuxmint.com/
 * http://packages.linuxmint.com/index.php
 * http://packages.ubuntu.com/
+###Mint /Upgrade/Repair 
 * [**UEFI**, deal with it](https://github.com/two-dogs/the-kennel/blob/master/uefi-issues.md)
 * [**repair grub/mbr easily without a re-install**](http://sourceforge.net/p/boot-repair/home/Home/)
 * the caveman method of grub-only repair is shown[ here](http://community.linuxmint.com/tutorial/view/245)

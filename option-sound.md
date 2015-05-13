@@ -13,7 +13,7 @@ sudo alsa force-reload ;
   echo inxi ;
   inxi -c0 -MSGAxx ;
   echo lsmod ;
-  lsmod | grep -Ei 'snd|hda'
+  lsmod | grep -Ei 'snd|hda' ;
   echo /proc/asound/cards ;
   cat /proc/asound/cards ;
   echo dmesg  ;

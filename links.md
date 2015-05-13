@@ -4,6 +4,7 @@
 * http://mywiki.wooledge.org/BashGuide
 * http://www.linuxsurvival.com
 * http://developer.android.com/index.html (yes, its linux)
+
 ***
 
 ###Mint specific documentation;
@@ -13,6 +14,7 @@
 * http://segfault.linuxmint.com/category/general/
 * http://community.linuxmint.com/tutorial/view/100
 * http://en.wikipedia.org/wiki/Linux_Mint
+
 ***
 
 ###Mint Install/Upgrade 
@@ -23,11 +25,13 @@
 * http://blog.linuxmint.com/
 * http://packages.linuxmint.com/index.php
 * http://packages.ubuntu.com/
+
 ***
 
 > for upgrade info 
 * http://blog.linuxmint.com/?p=2725
 * http://community.linuxmint.com/tutorial/view/2
+
 ***
 
 ###Mint /Repair 
@@ -38,12 +42,14 @@
 * [**ntfs** wiki by the arch smart-heads](https://wiki.archlinux.org/index.php/NTFS-3G)
 * [**the most recent kernel/headers**](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
 * [**yeap, the no dvd/cd/usb but i want to install and i have the iso downloaded method***]( http://askubuntu.com/questions/340156/install-ubuntu-from-iso-image-directly-from-hard-disk-of-a-system-running-linux)
+
 ***
 
 > Mint Cinnamon
 * http://www.techsupportalert.com/content/tips-and-tricks-linux-mint-after-installation-mint-17-cinnamon-edition.htm if you have questions the author can be found here, https://plus.google.com/+JojoYee?rel=author
 * https://github.com/Koutch
 * http://cinnamon.linuxmint.com/
+
 ***
 
 > Mint KDE
@@ -62,6 +68,7 @@
 
 > Mint Users Guide
 * http://www.linuxmint.com/documentation/user-guide/
+
 ***
 
 ###Mint Cinnamon Bugs/Issues/Tweaks
@@ -74,6 +81,7 @@
 
 ###Mint Mate Bugs/Issues
 * https://bugs.launchpad.net/linuxmint
+
 ***
 
 ###Drivers

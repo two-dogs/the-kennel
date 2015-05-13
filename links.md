@@ -23,6 +23,10 @@
 * http://packages.linuxmint.com/index.php
 * http://packages.ubuntu.com/
 
+> for upgrade info 
+* http://blog.linuxmint.com/?p=2725
+* http://community.linuxmint.com/tutorial/view/2
+
 ###Mint /Repair 
 * [**UEFI**, deal with it](https://github.com/two-dogs/the-kennel/blob/master/uefi-issues.md)
 * [**repair grub/mbr easily without a re-install**](http://sourceforge.net/p/boot-repair/home/Home/)
@@ -31,10 +35,6 @@
 * [**ntfs** wiki by the arch smart-heads](https://wiki.archlinux.org/index.php/NTFS-3G)
 * [**the most recent kernel/headers**](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
 * [**yeap, the no dvd/cd/usb but i want to install and i have the iso downloaded method***]( http://askubuntu.com/questions/340156/install-ubuntu-from-iso-image-directly-from-hard-disk-of-a-system-running-linux)
-
-> for upgrade info 
-* http://blog.linuxmint.com/?p=2725
-* http://community.linuxmint.com/tutorial/view/2
 
 > Mint Cinnamon
 * http://www.techsupportalert.com/content/tips-and-tricks-linux-mint-after-installation-mint-17-cinnamon-edition.htm if you have questions the author can be found here, https://plus.google.com/+JojoYee?rel=author

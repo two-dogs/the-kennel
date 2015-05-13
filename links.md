@@ -22,6 +22,7 @@
 * http://blog.linuxmint.com/
 * http://packages.linuxmint.com/index.php
 * http://packages.ubuntu.com/
+
 ###Mint /Upgrade/Repair 
 * [**UEFI**, deal with it](https://github.com/two-dogs/the-kennel/blob/master/uefi-issues.md)
 * [**repair grub/mbr easily without a re-install**](http://sourceforge.net/p/boot-repair/home/Home/)

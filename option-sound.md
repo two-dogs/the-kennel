@@ -10,13 +10,15 @@ sudo alsa force-reload ;
 ( 
   echo --option-sound-audio-- ;
   date ;
-  echo ;
+  echo inxi ;
   inxi -c0 -MSGAxx ;
-  echo ;
+  echo lsmod ;
+  lsmod | grep -Ei 'snd|hda'
+  echo /proc/asound/cards ;
   cat /proc/asound/cards ;
-  echo ;
+  echo dmesg  ;
   dmesg | grep -Ei 'sound|snd|hda' ;
-  echo ;
+  echo ps aux ;
   ps aux | grep -Ei 'pulse|rtkit' ;
   echo ;
   date ;

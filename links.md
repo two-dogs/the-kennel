@@ -71,7 +71,7 @@
 
 ###Drivers
 for **newer AMD/Nvidia drivers**, 
-* via software-sources 'add ppa' option, add `ppa:xorg-edgers/ppa` , 
+* via software-sources 'add ppa' option, add `ppa:xorg-edgers/ppa`
 * the newer drivers should then be available via Driver-Manager.
 
 ***

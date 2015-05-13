@@ -14,7 +14,7 @@
 * http://community.linuxmint.com/tutorial/view/100
 * http://en.wikipedia.org/wiki/Linux_Mint
 
-###Mint Install 
+###Mint Install/Upgrade 
 * [The easy **click** way](http://lmgtfy.com/?q=linux%2Bmint%2Binstall%2Bupgrade#)
 * http://www.linuxmint.com/oldreleases.php & 
 * http://www.linuxmint.com/download.php &
@@ -23,7 +23,7 @@
 * http://packages.linuxmint.com/index.php
 * http://packages.ubuntu.com/
 
-###Mint /Upgrade/Repair 
+###Mint /Repair 
 * [**UEFI**, deal with it](https://github.com/two-dogs/the-kennel/blob/master/uefi-issues.md)
 * [**repair grub/mbr easily without a re-install**](http://sourceforge.net/p/boot-repair/home/Home/)
 * the caveman method of grub-only repair is shown[ here](http://community.linuxmint.com/tutorial/view/245)
@@ -65,7 +65,6 @@
 * [***cinnamon breaks because of gtk version 3.16, and fix***](https://github.com/linuxmint/Cinnamon/issues/3909#issuecomment-90305671)
 * [***cinnamon breaks because of gtk version 3.16, and fix part-2***](https://bbs.archlinux.org/viewtopic.php?id=195857)
 * [Add other music players to play list, i dont know how safe that is, i added Kodi and kmplayer to list, worked mostly, cant control player from the applet, if some one manages to please give me a shout. ( a re-install or upgrade of cinnamon will wipe the tweak, keep a restore or else.](http://all-tech-thoughts.blogspot.com/2014/09/how-to-add-gmusicbrowser-to-media-menu.html)
-
 
 ###Mint Mate Bugs/Issues
 * https://bugs.launchpad.net/linuxmint

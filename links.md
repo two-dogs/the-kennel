@@ -14,6 +14,7 @@
 * http://segfault.linuxmint.com/category/general/
 * http://community.linuxmint.com/tutorial/view/100
 * http://en.wikipedia.org/wiki/Linux_Mint
+* [***systemd***](http://blog.linuxmint.com/?p=2825#comment-117169)
 
 ***
 

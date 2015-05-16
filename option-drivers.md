@@ -4,5 +4,3 @@ for **newer AMD/Nvidia drivers**,
 * the newer drivers should then be available via Driver-Manager.
 
 ***
-driver info: [AMD's New Open-Source "AMDGPU" Linux Driver Supports The R9 285 Tonga, ](http://www.phoronix.com/scan.php?page=news_item&px=AMD-AMDGPU-Relea* and as of 04-22-15 Radeon did not,sed)
-and as of 04-22-15 Radeon did not

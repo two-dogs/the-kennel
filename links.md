@@ -3,6 +3,7 @@
 * http://sourceforge.net/projects/linuxcommand/files/TLCL/
 * http://mywiki.wooledge.org/BashGuide
 * http://www.linuxsurvival.com
+* http://www.linfo.org/index.html
 * http://developer.android.com/index.html (yes, its linux)
 
 ***

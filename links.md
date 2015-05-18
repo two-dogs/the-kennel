@@ -27,12 +27,14 @@
 * http://blog.linuxmint.com/
 * http://packages.linuxmint.com/index.php
 * http://packages.ubuntu.com/
-
-***
-
 > for upgrade info 
 * http://blog.linuxmint.com/?p=2725
 * http://community.linuxmint.com/tutorial/view/2
+
+***
+###Mint, Stuck with older version and have to make due?
+* [Where can I get the repositories for old Ubuntu versions?](http://superuser.com/questions/339537/where-can-i-get-the-repositories-for-old-ubuntu-versions)
+
 
 ***
 

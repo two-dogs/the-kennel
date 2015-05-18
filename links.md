@@ -34,7 +34,7 @@
 ***
 ###Mint, Stuck with older version and have to make due?
 * [Where can I get the repositories for old Ubuntu versions?](http://superuser.com/questions/339537/where-can-i-get-the-repositories-for-old-ubuntu-versions)
-
+> the actual location of the repo files in mint may/will be different than what shown on the link, via `terminal` if you execute `inxi -r` the file pointing to the ubuntu repo needing to be changed will be shown, and you want to make the changes to it, rather than creating a new location.
 
 ***
 

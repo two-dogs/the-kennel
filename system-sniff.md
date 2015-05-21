@@ -3,10 +3,10 @@
 `
   sudo inxi -U ;
   (
-  date &
-  inxi -c0 -Fzxxtcm5 &
-  grep -B1 -A1 -Ei 'warn|fail|error|critical' /var/log/syslog &
-  date
+    date &
+    inxi -c0 -Fzxxtcm5 &
+    grep -B1 -A1 -Ei 'warn|fail|error|critical' /var/log/syslog &
+    date
   ) > ~/trouble-shoot-history.txt
 `
 

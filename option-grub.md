@@ -11,3 +11,4 @@ option-**grub**, the command shown below would look for grub in /dev/sd**a** the
   echo "Done, the log has been saved to ~/trouble-shoot-history.txt"
 `
 ***
+* [Grub2, '__grub__' everything you always wanted to know](https://help.ubuntu.com/community/Grub2)

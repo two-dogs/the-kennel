@@ -89,4 +89,6 @@
 
 ***
 
-###Drivers [go here](http://git.io/vTvTq)
+###Drivers
+* [go here for AMD/NVIDIA up to date drivers](http://git.io/vTvTq)
+

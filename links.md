@@ -46,6 +46,7 @@
 * [**ntfs** wiki by the arch smart-heads](https://wiki.archlinux.org/index.php/NTFS-3G)
 * [**the most recent kernel/headers**](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
 * [**yeap, the no dvd/cd/usb but i want to install and i have the iso downloaded method***]( http://askubuntu.com/questions/340156/install-ubuntu-from-iso-image-directly-from-hard-disk-of-a-system-running-linux)
+* [Grub2, '__grub__' everything you always wanted to know](https://help.ubuntu.com/community/Grub2)
 
 ***
 

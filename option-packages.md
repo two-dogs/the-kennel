@@ -10,7 +10,7 @@ echo "Please wait...." ;
   echo ;
   inxi -c0 -Sr ;
   echo ;
-  grep -Ei 'setting up|configur|remov|err|fail|log started|log ended' /var/log/apt/term.log | tail --lines=40 ;
+  grep -Ei 'setting up|configur|remov|err|fail|log started|log ended' /var/log/apt/term.log | tail --lines=60 ;
   echo "errors-found-begin" ;
   sudo apt update | grep -Ei 'fail|404' ;
   echo "errors-found-end" ;

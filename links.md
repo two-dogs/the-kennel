@@ -4,6 +4,7 @@
 * http://mywiki.wooledge.org/BashGuide
 * http://www.linuxsurvival.com
 * http://www.linfo.org/index.html
+* http://www.linuxquestions.org/
 * http://developer.android.com/index.html (yes, its linux)
 
 ***

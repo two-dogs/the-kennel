@@ -14,6 +14,9 @@ option-xorg, copy/paste and **execute** `via terminal` the `indented` below in o
   echo --cut-xrandr-start ;
   xrandr ;
   echo --cut-xrandr-end ;
+  echo --dkms-status--start ;
+  dkms status ;
+  echo --dkms-status--end ;
   echo --cut-lsmod-start ;
   lsmod | grep -Ei 'video|nvidia|intel|i9|fglrx|nouveau|radeon|vbox' | grep -Eiv 'snd' ;
   echo --cut-lsmod-end ;

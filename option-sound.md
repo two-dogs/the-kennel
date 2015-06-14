@@ -1,5 +1,9 @@
 ### Sound Issues, Alsa driver, and Pulseaudio sound server related
 ***
+another method is to follow the instructions found here, http://itsfoss.com/fix-sound-ubuntu-1304-quick-tip/ , or here https://wiki.ubuntu.com/Audio/AlsaInfo
+***
+
+***
 * option-**sound**, gathers basic sound driver server data, copy/paste and execute **all the indented below** `via terminal`.
 
 ***
@@ -28,9 +32,7 @@ sudo alsa force-reload ;
 ***
 * "To View/**Share" the file**, [the instructions are here] (https://github.com/two-dogs/the-kennel/blob/master/to-share.md)
 
-***
-another method is to follow the instructions found here, http://itsfoss.com/fix-sound-ubuntu-1304-quick-tip/ , or here https://wiki.ubuntu.com/Audio/AlsaInfo
-***
+
 for the card you have set in sound configuration, you can use `alsamixer` via terminal.
 
 * insure that '[Playback]' in case of sound out,

@@ -1,4 +1,4 @@
-1. before doing anything else, do reboot, get to a default state, and if you control the router/modem, reboot them also
+before doing anything else, do reboot, get to a default state, and if you control the router/modem, reboot them also
 ***
 option-**network**, gathers basic networking data with privacy switch (-z) and looks for network-manager running, copy/paste and execute **all the indented below** `via terminal`.
 ***

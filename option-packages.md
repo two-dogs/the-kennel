@@ -9,7 +9,7 @@ echo "Please wait...." ;
   date ;
   echo ;
   inxi -c0 -Sr ;
-  echo ;
+  echo term.log ;
   grep -Ei 'setting up|configur|remov|err|fail|log started|log ended' /var/log/apt/term.log | tail --lines=60 ;
   echo "errors-found-begin" ;
   sudo apt update | grep -Ei 'fail|404' ;

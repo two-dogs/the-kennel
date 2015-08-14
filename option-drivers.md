@@ -4,7 +4,7 @@ for **newer AMD/Nvidia drivers**,
 
 > find `add ppa` option, and add `ppa:xorg-edgers/ppa` for the "edgers" ppa 
 
-> or ` ppa:graphics-drivers/ppa` for the newest ppa refered to below.
+> or ` ppa:graphics-drivers/ppa` for the newer ppa refered to below.
 
 > and __update the cache__
 

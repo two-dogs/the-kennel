@@ -93,4 +93,5 @@
 
 ###Drivers
 * [go here for AMD/NVIDIA up to date drivers](http://git.io/vTvTq)
+* nvidia has a new ppa, http://www.webupd8.org/2015/08/new-official-proprietary-gpu-drivers.html i am not sure about its usefulness yet, be nice to get feed back.
 

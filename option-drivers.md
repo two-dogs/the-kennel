@@ -12,4 +12,6 @@ for **newer AMD/Nvidia drivers**,
 * if you have 100% intel graphics or want/need to use opensource drivers, after adding ppa as shown above, first close software-sources and then via `terminal` execute `sudo apt update & sudo aptitude upgrade` in order to bring graphics to most current available.
 
 ***
-the link shown refers to why add 'edgers' ppa, and has nvidia driver specific info;  http://www.noobslab.com/2014/12/use-nvidia-graphics-drivers-in.html and another link to a ppa http://www.webupd8.org/2015/08/new-official-proprietary-gpu-drivers.html
+* the first link shown refers to why add 'edgers' ppa, and has nvidia driver specific info;  http://www.noobslab.com/2014/12/use-nvidia-graphics-drivers-in.html 
+
+* and another link to a newer ppa http://www.webupd8.org/2015/08/new-official-proprietary-gpu-drivers.html

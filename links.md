@@ -1,4 +1,4 @@
-I have not accounted for changes made since lm-17.2, call me lazy
+I have not accounted for changes made since lm-17.2, call me lazy.
 
 ###A good starting place to learn about Linux;
 * http://linuxcommand.org/index.php

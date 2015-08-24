@@ -1,6 +1,7 @@
 option-xorg, copy/paste and **execute** `via terminal` the `indented` below in order to gather xorg/X11/graphics output which may help in trouble shooting the issue you are having. 
 ***
-`sudo inxi -U ;
+`
+ sudo inxi -U ;
  sudo updatedb ;
  sudo update-pciids ;
  (

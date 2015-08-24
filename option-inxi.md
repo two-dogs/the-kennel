@@ -4,7 +4,3 @@ the change will allow inxi to continue to be able to be updated via `sudo inxi -
 via `terminal` execute;
 
 `sudo sed --in-place=.bak s/B_ALLOW_UPDATE=false/B_ALLOW_UPDATE=true/ /etc/inxi.conf`
-
-the above command will change the value from 'false' to 'true' if found in file /etc/inxi.conf
-
-

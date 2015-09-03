@@ -1,4 +1,4 @@
-Since lm-17.2 inxi has been neutered, and you can fix it, 
+Since lm-17.2, inxi has been neutered, but you can fix it, 
 
 change the value `B_ALLOW_UPDATE=false` in /etc/inxi.conf to `B_ALLOW_UPDATE=true` 
 

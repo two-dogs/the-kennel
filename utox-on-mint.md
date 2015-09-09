@@ -1,3 +1,5 @@
+these instructions are no longer working, the repo is toast
+
 Linux
 
 Apt/Aptitude (Debian, Ubuntu, Mint, etc.)

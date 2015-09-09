@@ -1,8 +1,8 @@
-these instructions are no longer working, the repo is toast, use these instructions instead;
+use these instructions instead;
 
 https://wiki.tox.chat/binaries#other_linux
 
-below kept for history only,
+these instructions are no longer working, the repo is toast, below kept for history only,
 
 Linux
 

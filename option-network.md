@@ -53,3 +53,8 @@ sudo update-pciids ;
 some possible wifi tweaks 
 * [rtl8192ce-and-rtl8192cu chip related fix maybe](http://askubuntu.com/questions/471208/realtek-wireless-adapter-issues-rtl8192ce-and-rtl8192cu)
 * [Realtek RTL8723BE PCIe chip-ID: 10ec:b723](http://ubuntuforums.org/showthread.php?t=2205497)
+
+***
+something to test your web experience/network, the output is a detailed report from the netalyzr.icsi.berkeley.edu people, the readme is here, http://netalyzr.icsi.berkeley.edu/cli.html , and the terminal command/s below will add the jar file and execute the jar, the -q option can be removed if you wish to see the light show, either way a link is output;
+
+`wget http://netalyzr.icsi.berkeley.edu/NetalyzrCLI.jar && java -jar NetalyzrCLI.jar -q`

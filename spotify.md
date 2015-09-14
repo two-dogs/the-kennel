@@ -4,25 +4,9 @@ This is a preview build of Spotify for Linux. As a preview release this version 
 So how do you get it? We've packaged it for Debian Squeeze/Ubuntu.
 
 ### /Ubuntu/Debian 
->Add this line to your list of repositories by editing your _/etc/apt/sources.list_
 
-`deb http://repository.spotify.com stable non-free`
+https://github.com/two-dogs/the-kennel/blob/master/spotify-mint-install.md
 
->If you want to verify the downloaded packages,you will need to add our public key
-
-`sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 94558F59`
-
->Run apt-get update
-
-`sudo apt-get update`
-
->Install spotify!
-
-`sudo apt-get install spotify-client`
-
->above instructions taken from this link, https://www.spotify.com/us/download/previews/
-
->i have seen one complaint, specific to 'Debian', dependency issues with the install of libsslxxxx
 
 ### Mint only [go here] (https://github.com/two-dogs/the-kennel/blob/master/spotify-mint-install.md)
 

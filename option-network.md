@@ -50,7 +50,8 @@ sudo update-pciids ;
 ***
 [the raw view of the execute structure is here and easier to make out what is going on](https://github.com/two-dogs/the-kennel/raw/master/option-network.md)
 ***
-some possible wifi tweaks 
+some possible wifi tweaks
+* [Ndiswrapper](https://help.ubuntu.com/community/WifiDocs/Driver/Ndiswrapper)
 * [rtl8192ce-and-rtl8192cu chip related fix maybe](http://askubuntu.com/questions/471208/realtek-wireless-adapter-issues-rtl8192ce-and-rtl8192cu)
 * [Realtek RTL8723BE PCIe chip-ID: 10ec:b723](http://ubuntuforums.org/showthread.php?t=2205497)
 

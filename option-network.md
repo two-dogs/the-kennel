@@ -33,7 +33,7 @@ sudo update-pciids ;
  dmesg | grep -Ei 'error|fail|dkms|blue|wifi|net:|hid|tcp|udp|eth|wlan|ipv|80211|dnsmasq' ;
  echo --dmesg--end ;
  echo --lsmod--start ;
- lsmod | grep -Ei 'bluetooth|wifi|80211|hid' ;
+ lsmod | grep -Ei 'bluetooth|wifi|ndis|80211|hid' ;
  echo --lsmod--end ;
  echo --hciconfig--start ;
  hciconfig -a ;

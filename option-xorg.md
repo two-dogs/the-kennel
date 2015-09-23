@@ -2,6 +2,7 @@ option-xorg, copy/paste and **execute** `via terminal` the `indented` below in o
 ***
 `
  sudo inxi -U ;
+ echo wait one..... ;
  sudo updatedb ;
  sudo update-pciids ;
  (

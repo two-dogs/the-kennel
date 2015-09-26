@@ -57,7 +57,7 @@ some possible wifi tweaks
 * [Ndiswrapper](https://help.ubuntu.com/community/WifiDocs/Driver/Ndiswrapper)
 * [rtl8192ce-and-rtl8192cu chip related fix maybe](http://askubuntu.com/questions/471208/realtek-wireless-adapter-issues-rtl8192ce-and-rtl8192cu)
 * [Realtek RTL8723BE PCIe chip-ID: 10ec:b723](http://ubuntuforums.org/showthread.php?t=2205497)
-* [06:48:54] "<Rusty1_64>" if you install sta or wl for 4311 , it blacklists b43 and  its a royal pain to fix
+* [06:48:54] Rusty1_64 if you install sta or wl for 4311 , it blacklists b43 and  its a royal pain to fix
 
 ***
 **NetalyzrCLI**

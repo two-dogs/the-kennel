@@ -4,7 +4,7 @@ change the value `B_ALLOW_UPDATE=false` in /etc/inxi.conf to `B_ALLOW_UPDATE=tru
 
 the change will allow inxi to continue to be able to be updated via `sudo inxi -U` as it did before.
 
-or execute via `terminal` the line below;
+or **execute via `terminal` the line below**;
 
 `sudo sed --in-place=.bak s/B_ALLOW_UPDATE=false/B_ALLOW_UPDATE=true/ /etc/inxi.conf & sudo inxi -U`
 

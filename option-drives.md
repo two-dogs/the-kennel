@@ -10,7 +10,7 @@ sudo inxi -U ;
  echo parted ;
  sudo parted -l ;
  echo lsblk  ;
- lsblk -fm ;
+ lsblk -fmi ;
  echo inxi ;
  inxi -c0 -MSRduplo ;
  echo --cut-fstab-begin-- ;

@@ -1,4 +1,4 @@
-Since lm-17.2, inxi has been neutered, but you can **fix inxi**, 
+On lm-17.2, inxi has been neutered, but you can **fix inxi**, 
 
 **execute via `terminal` the line below to fix inxi**;
 

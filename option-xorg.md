@@ -3,7 +3,6 @@ option-xorg, copy/paste and **execute** `via terminal` the `indented` below in o
 `
  sudo inxi -U ;
  echo wait one..... ;
- sudo updatedb ;
  sudo update-pciids ;
  (
   date ;
@@ -32,7 +31,6 @@ option-xorg, copy/paste and **execute** `via terminal` the `indented` below in o
   grep -B1 -Ewi 'kernel|conf|WW|EE' /var/log/Xorg.0.log ;
   echo --cut-Xorg.0.log-end ;
   echo --cut-webinstall-start ;
-  locate NVIDIA*.run ;
   ls /usr/share/ati/ | grep -i fglrx ;
   echo --cut-webinstall-end ;
   echo --cut-syslog-start ;

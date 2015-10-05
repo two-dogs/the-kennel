@@ -5,8 +5,7 @@ option-**drives** , copy/paste and execute via `terminal` the `indented` below,
 sudo inxi -U ;
 (
  echo --efi-check-- ;
- [ -d /sys/firmware/efi ] ;
- echo "EFI boot on HDD" || echo "Legacy boot on HDD" ;
+ [ -d /sys/firmware/efi ] && echo "EFI boot on HDD" || echo "Legacy boot on HDD" ;
  echo parted ;
  sudo parted -l ;
  echo lsblk  ;

@@ -11,7 +11,7 @@ sudo apt install gist ;
   [ -d /sys/firmware/efi ] ;
   echo "EFI boot on HDD" || echo "Legacy boot on HDD" ;
   echo --inxi-start ;
-  inxi -c0 -MSGNnIsxx ;
+  inxi -c0 -F ;
   echo --inxi-end ;
   echo --start-pstree-- ;
   sudo pstree -ansup ;

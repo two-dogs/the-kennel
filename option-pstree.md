@@ -4,7 +4,6 @@ copy/paste and execute `via terminal` the indented below in order to gather **_s
 ***
 `
 sudo inxi -U ;
-sudo apt install gist ;
 (
   date ;
   echo --option-pstree-- ;
@@ -14,11 +13,11 @@ sudo apt install gist ;
   inxi -c0 -MSGIsxx ;
   echo --inxi-end ;
   echo --start-pstree-- ;
-  pstree -pnsu ;
+  sudo pstree -ansup ;
   echo --end-pstree-- ;
   date
 ) > ~/trouble-shoot-history.txt | echo "Done, the log has been saved to ~/trouble-shoot-history.txt" ;
-gist-paste -aps ~/trouble-shoot-history.txt  ; echo share link above, looks similar to http://git.io/xxxxx
+pastebin ~/trouble-shoot-history.txt  ; echo share link above, looks similar to http://git.io/xxxxx
 `
 ***
  Other Share instructions are [here.](https://github.com/two-dogs/the-kennel/blob/master/to-share.md).

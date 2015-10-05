@@ -8,8 +8,7 @@ sudo apt install gist ;
 (
   date ;
   echo --option-pstree-- ;
-  [ -d /sys/firmware/efi ] ;
-  echo "EFI boot on HDD" || echo "Legacy boot on HDD" ;
+  [ -d /sys/firmware/efi ] && echo "EFI boot on HDD" || echo "Legacy boot on HDD" ;
   echo --inxi-start ;
   inxi -c0 -F ;
   echo --inxi-end ;

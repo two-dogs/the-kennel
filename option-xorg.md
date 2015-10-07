@@ -48,3 +48,4 @@ The "To-View/**Share" instructions** are [here] (https://github.com/two-dogs/the
 * https://wiki.ubuntu.com/X/Config/Resolution & 
 * http://www.arachnoid.com/modelines/ & 
 * https://wiki.ubuntu.com/X/Config/Resolution#Adding_undetected_resolutions
+* http://superuser.com/questions/117239/how-can-i-get-multiple-video-cards-to-work-on-linux

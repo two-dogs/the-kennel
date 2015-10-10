@@ -2,9 +2,11 @@ http://pariah.0wn0.com/
 ### **To Share**:
 the file _**`trouble-shoot-history.txt`**_ output from the various options executed is located in your user area(/home/your-user-name/..), at `~/trouble-shoot-history.txt` , and to share the current content continue reading , 
 * and to share the content via a pastebin link, open a terminal and execute;
+
 `
 pastebin ~/trouble-shoot-history.txt
 `
+
 * or, install via terminal the method( in this case using 'gist') to share the output, this only needs to be done once unless you remove the package later;
 
 `

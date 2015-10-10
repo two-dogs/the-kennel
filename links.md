@@ -8,6 +8,7 @@ I have not accounted for changes made since lm-17.2, call me lazy.
 * http://www.linfo.org/index.html
 * http://www.linuxquestions.org/
 * http://developer.android.com/index.html (yes, its linux)
+* [scanner/sane-101 via arch-wiki](https://wiki.archlinux.org/index.php/SANE)
 
 ***
 

@@ -2,7 +2,9 @@ On lm-17.2, inxi has been made less than useful by default, to opt into updating
 
 **execute via `terminal` the line below to fix inxi**;
 
-`sudo sed --in-place=.bak s/B_ALLOW_UPDATE=false/B_ALLOW_UPDATE=true/ /etc/inxi.conf & sudo inxi -U`
+`
+sudo sed --in-place=.bak s/B_ALLOW_UPDATE=false/B_ALLOW_UPDATE=true/ /etc/inxi.conf && pastebin /etc/inxi.conf
+`
 
 the original file  `/etc/inxi.conf` will be saved to `/etc/inxi.conf.bak` and inxi will update to current version.
 

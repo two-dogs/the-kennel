@@ -6,12 +6,13 @@ sudo inxi -U ;
 (
  echo --efi-check-- ;
  [ -d /sys/firmware/efi ] && echo "EFI boot on HDD" || echo "Legacy boot on HDD" ;
+ echo inxi start ;
+ inxi -c0 -MSRduplo ;
+ echo inxi end ;
  echo parted ;
  sudo parted -l ;
  echo lsblk  ;
  lsblk -fmi ;
- echo inxi ;
- inxi -c0 -MSRduplo ;
  echo --cut-fstab-begin-- ;
  cat /etc/fstab ;
  echo --cut-fstab-end--

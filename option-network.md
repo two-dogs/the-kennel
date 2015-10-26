@@ -33,7 +33,7 @@ sudo update-pciids ;
  ndiswrapper -l ;
  echo --ndiswrapper-list--end ;
  echo --dmesg--start ;
- dmesg | grep -Ei 'error|fail|dkms|blue|wifi|net:|hid|tcp|udp|eth|wlan|ipv|80211|ath1|dnsmasq' ;
+ dmesg | grep -Ei 'ignor|err|fail|dkms|blue|wifi|net:|hid|tcp|udp|eth|wlan|ipv|80211|ath1|dnsmasq' ;
  echo --dmesg--end ;
  echo --lsmod--start ;
  lsmod | grep -Ei 'bluetooth|ath1|wifi|ndis|80211|hid' ;

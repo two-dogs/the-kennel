@@ -8,7 +8,7 @@ sudo update-pciids ;
 (
  date ;
  echo --opt-network-- ;
- inxi -c0 -z -MGSpNnxx ;
+ inxi -c0 -z -MGSIpNnxx ;
  echo --dkms-status--start ;
  dkms status ;
  echo --dkms-status--end ;

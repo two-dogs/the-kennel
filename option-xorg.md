@@ -25,7 +25,7 @@ option-xorg, copy/paste and **execute** `via terminal` the `indented` below in o
   grep -Ei 'g up|config|dkms|module|install|remov|err|fail' /var/log/apt/term.log | grep -Ei 'radeon|nvidia|nouveau|intel|fglrx|vbox|Log started|Log ended' ;
   echo --cut-term.log-end ;
   echo --cut-dpkg-start-- ;
-  dpkg -l | grep -Ei 'xorg-vid|nvidia|fglrx' ;
+  dpkg -l | grep -Ei 'nvidia|fglrx' ;
   echo --cut-dpkg-end-- ;
   echo --cut-Xorg.0.log-start ;
   grep -B1 -Ewi 'kernel|conf|WW|EE' /var/log/Xorg.0.log ;

@@ -34,7 +34,7 @@ option-xorg, **copy/paste and execute** `via terminal` the `indented` below in o
   grep -Ewi 'kernel|conf|WW|EE' /var/log/Xorg.0.log ;
   echo --cut-Xorg.0.log-end ;
   echo --cut-syslog-start ;
-  grep -B1 -Ei 'fail|error|critical' /var/log/syslog ;
+  grep -Ei 'fail|error|critical' /var/log/syslog ;
   echo --cut-syslog-end ;
   date 
   ) > ~/trouble-shoot-history.txt | echo "Done, the log has been saved to ~/trouble-shoot-history.txt"

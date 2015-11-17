@@ -12,3 +12,4 @@ option-**grub**, the command shown below would look for grub in /dev/sd**a** the
 `
 ***
 * [Grub2, '__grub__' everything you always wanted to know](https://help.ubuntu.com/community/Grub2)
+* [the easy grub repair and replace method via a live-session](http://sourceforge.net/p/boot-repair/home/Home/)

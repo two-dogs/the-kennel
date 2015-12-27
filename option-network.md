@@ -32,10 +32,7 @@ sudo update-pciids ;
  echo --ndiswrapper-list--start ;
  ndiswrapper -l ;
  echo --ndiswrapper-list--end ;
- echo --dmesg--start ;
- dmesg | grep -Ei 'error|fail|dkms|blue|wifi|net:|hid|tcp|udp|eth|wlan|ipv|80211|ath1|dns' ;
- echo --dmesg--end ;
- echo --lsmod--start ;
+  echo --lsmod--start ;
  lsmod | grep -Ei 'blue|ath1|wifi|ndis|80211|hid' ;
  echo --lsmod--end ;
  echo --hciconfig--start ;
@@ -44,6 +41,9 @@ sudo update-pciids ;
  echo --search ps NM/Blue start-- ;
  ps aux | grep -Ei 'blue|smb|nmbd|winbind|network|dnsmasq' ;
  echo --search ps NM/Blue end-- ;
+ echo --dmesg--start ;
+ dmesg | grep -Ei 'error|fail|dkms|blue|wifi|net:|hid|tcp|udp|eth|wlan|ipv|80211|ath1|dns' ;
+ echo --dmesg--end ;
  date
 ) > ~/trouble-shoot-history.txt ;
  echo "Done, the log has been saved to ~/trouble-shoot-history.txt"

@@ -3,3 +3,5 @@
 >> The `terminal` command shown below will output the biggest folders containing the most used space (the hogs) system wide. Expect the process to take a while to complete, give it at least 2-3 minutes before considering the system hung, takes a while to compute and sort results.
 
 `sudo du -h / | grep -P '^[0-9\.]+G'`
+
+Ref: https://www.google.com/search?q=sudo+du+-h+/+|+grep+-P+%27^[0-9\.]+G%27

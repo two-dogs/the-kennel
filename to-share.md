@@ -9,7 +9,7 @@ the file _**`trouble-shoot-history.txt`**_ output from the various options execu
 
 tends not to work, the simplest fix is to do as shown next, gist(the package is a pastebin method just works) and where you would place 'pastebin' on a command line you instead place 'gist-paste'.
 
-* or, install via terminal the method( in this case using 'gist') to share the output, this only needs to be done once unless you remove the package later;
+* install via terminal the method( in this case using 'gist') to share the output, this only needs to be done once unless you remove the package later;
 
 `
 sudo apt install gist

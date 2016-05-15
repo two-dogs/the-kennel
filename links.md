@@ -14,7 +14,7 @@ I have not accounted for changes made since lm-17.2, call me lazy.
 ***
 
 ###Mint specific documentation;
-* [The easy **click** way](http://lmgtfy.com/?q=mint+linux+manual)
+* [The easy **click** way](https://www.google.com/search?q=mint+linux+manual)
 * http://www.linuxmint.com/
 * [the manual, the book, the how-to, etc](http://www.linuxmint.com/documentation.php)
 * http://segfault.linuxmint.com/category/general/
@@ -23,7 +23,6 @@ I have not accounted for changes made since lm-17.2, call me lazy.
 ***
 
 ###Mint Install/Upgrade 
-* [The easy **click** way](http://lmgtfy.com/?q=linux%2Bmint%2Binstall%2Bupgrade#)
 * http://www.linuxmint.com/oldreleases.php & 
 * http://www.linuxmint.com/download.php &
 * [**Mint version 13/Maya**](http://linuxmint.com/rel_maya.php)  

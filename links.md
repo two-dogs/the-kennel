@@ -18,9 +18,7 @@ I have not accounted for changes made since lm-17.2, call me lazy.
 * http://www.linuxmint.com/
 * [the manual, the book, the how-to, etc](http://www.linuxmint.com/documentation.php)
 * http://segfault.linuxmint.com/category/general/
-* http://community.linuxmint.com/tutorial/view/100
 * http://en.wikipedia.org/wiki/Linux_Mint
-* [***systemd***](http://blog.linuxmint.com/?p=2825#comment-117169) and [***systemd more of the same***](http://www.pcworld.com/article/2921385/its-optional-for-now-but-linux-mint-expects-to-switch-to-systemd-next-year.html)
 
 ***
 

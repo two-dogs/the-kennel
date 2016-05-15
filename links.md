@@ -1,7 +1,6 @@
 I have not accounted for changes made since lm-17.2, call me lazy.
 
 ###A good starting place to learn about Linux;
-* https://community.linuxmint.com/tutorial/view/100
 * http://linuxcommand.org/index.php
 * http://sourceforge.net/projects/linuxcommand/files/TLCL/
 * http://www.tldp.org/

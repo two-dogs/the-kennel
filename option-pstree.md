@@ -13,7 +13,7 @@ sudo apt install gist ;
   inxi -c0 -F ;
   echo --inxi-end ;
   echo --start-pstree-- ;
-  sudo pstree -ansup ;
+  pstree -ansup ;
   echo --end-pstree-- ;
   date
 ) > ~/trouble-shoot-history.txt | echo "Done, the log has been saved to ~/trouble-shoot-history.txt" ;

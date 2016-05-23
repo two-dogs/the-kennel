@@ -53,8 +53,7 @@ I have not accounted for changes made since lm-17.2, call me lazy.
 ***
 
 > Mint Cinnamon
-* http://www.techsupportalert.com/content/tips-and-tricks-linux-mint-after-installation-mint-17-cinnamon-edition.htm if you have questions the author can be found here, https://plus.google.com/+JojoYee?rel=author
-* https://github.com/Koutch
+* https://github.com/linuxmint/Cinnamon
 * http://cinnamon.linuxmint.com/
 
 ***

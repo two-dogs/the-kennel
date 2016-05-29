@@ -13,7 +13,7 @@ sudo update-pciids ;
   grep -Ei 'GRUB_CMDLINE_' /etc/default/grub ;
   echo --grub-kernel-options-end-- ;
   echo --xsession-errors-start-- ;
-  grep -B1 -Ei 'error|fail' ~/.xsession-errors ;
+  grep -Eir "error:|failed" --include=".xsession-error*" ;
   echo --xsession-errors-end-- ;
   date ;
   ) > ~/trouble-shoot-history.txt | echo "Done, the log has been saved to ~/trouble-shoot-history.txt"

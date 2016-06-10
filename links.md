@@ -12,6 +12,9 @@ I have not accounted for changes made since lm-17.2, call me lazy.
 * [scanner/sane-101 via arch-wiki](https://wiki.archlinux.org/index.php/SANE)
 
 ***
+###LM-18 specific documentation;
+* [UEFI](https://www.linuxmint.com/rel_sarah_cinnamon.php)
+
 
 ###Mint specific documentation;
 * [The easy **click** way](https://www.google.com/search?q=mint+linux+manual)

@@ -14,7 +14,7 @@ I have not accounted for changes made since lm-17.2, call me lazy.
 ***
 ###LM-18 specific documentation;
 * [UEFI](https://www.linuxmint.com/rel_sarah_cinnamon.php)
-
+Linux Mint is not certified by Microsoft (and should not need to be). If your computer is using "secureBoot", turn it off.
 
 ###Mint specific documentation;
 * [The easy **click** way](https://www.google.com/search?q=mint+linux+manual)

@@ -14,7 +14,7 @@ I have not accounted for changes made since lm-17.2, call me lazy.
 ***
 ###LM-18 specific documentation;
 * [Linux Mint 18 “Sarah” Cinnamon – BETA Release](http://blog.linuxmint.com/?p=3035)
-* [Bug Reports are made on the Blog](https://goo.gl/6WQLG9)
+* [Bug Reports are made on the Blog as comments](https://goo.gl/6WQLG9) (http://blog.linuxmint.com/?p=3035)
 * [UEFI](https://www.linuxmint.com/rel_sarah_cinnamon.php)
 * Linux Mint is not certified by Microsoft (and should not need to be). If your computer is using "secureBoot", turn it off.
 * [Managing EFI Boot Loaders for Linux:

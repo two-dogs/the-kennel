@@ -1,6 +1,6 @@
 ### Sound Issues, Alsa driver, and Pulseaudio sound server related
 ***
-follow the instructions found here, http://itsfoss.com/fix-sound-ubuntu-1304-quick-tip/ , here https://wiki.ubuntu.com/Audio/AlsaInfo , and here [The open-source radeon driver supports HDMI audio on Radeon HD 6000-series and earlier chips.](https://gist.github.com/anonymous/59cbc821b20e04752e57)
+follow the instructions found here, http://itsfoss.com/fix-sound-ubuntu-1304-quick-tip/ , here https://wiki.ubuntu.com/Audio/AlsaInfo , and here [The open-source radeon driver supports HDMI audio on Radeon HD 6000-series and earlier chips.](https://gist.github.com/anonymous/59cbc821b20e04752e57), some serious discussion here https://www.kernel.org/doc/Documentation/sound/alsa/HD-Audio.txt
 ***
 otherwise share the following
 ***

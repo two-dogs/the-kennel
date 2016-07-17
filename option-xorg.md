@@ -19,10 +19,10 @@ option-xorg, **copy/paste and execute** `via terminal` the `indented` below in o
   dkms status ;
   echo --dkms-status--end ;
   echo --cut-lsmod-start ;
-  lsmod | grep -Ei 'vid|nvi|int|i9|fgl|nouv|rad|vbox|ndi' | grep -Eiv 'snd' ;
+  lsmod | grep -Ei 'vid|nvi|int|i9|fgl|amd|nouv|rad|vbox|ndi' | grep -Eiv 'snd' ;
   echo --cut-lsmod-end ;
   echo --cut-term.log-start ;
-  grep -Ei 'g up|config|dkms|module|install|remov|err|fail' /var/log/apt/term.log | grep -Ei 'radeon|nvidia|nouveau|intel|fglrx|vbox|Log started|Log ended' ;
+  grep -Ei 'g up|config|dkms|module|install|remov|err|fail' /var/log/apt/term.log | grep -Ei 'radeon|nvidia|nouveau|intel|fglrx|amd|vbox|Log started|Log ended' ;
   echo --cut-term.log-end ;
   echo --cut-dpkg-start-- ;
   dpkg -l | grep -Ei 'nvidia|fglrx' ;

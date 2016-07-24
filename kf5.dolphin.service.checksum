@@ -1,0 +1,29 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=all/all;
+Icon=dialog-ok
+Actions=checkmd5;sha1sum;sha256sum;sha512sum;
+TryExec=sha256sum
+X-KDE-Priority=TopLevel
+X-KDE-Submenu=Checksum
+
+[Desktop Action checkmd5]
+Name=Read md5 Checksum
+Icon=dialog-ok
+Exec=notify-send -i "dialog-ok" "md5 checksum" "`md5sum %F`"
+
+[Desktop Action sha1sum]
+Name=Read sha1 Checksum
+Icon=dialog-ok
+Exec=notify-send -i "dialog-ok" "sha-1 checksum" "`sha1sum %F`"
+
+[Desktop Action sha256sum]
+Name=Read sha256 Checksum
+Icon=dialog-ok
+Exec=notify-send -i "dialog-ok" "sha-256 checksum" "`sha256sum %F`"
+
+[Desktop Action sha512sum]
+Name=Read sha512 Checksum
+Icon=dialog-ok
+Exec=notify-send -i "dialog-ok" "sha-512 checksum" "`sha512sum %F`"

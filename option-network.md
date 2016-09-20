@@ -18,7 +18,7 @@ sudo update-pciids ;
  echo --nmcli--start ; 
  echo ; 
  echo "NetworkManager's" status ; 
- nmcli -m tabular nm ; 
+ nmcli -m tabular n ; 
  echo ; 
  echo "NetworkManager's" connections ; 
  nmcli -m tabular c ; 

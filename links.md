@@ -8,6 +8,7 @@ I have not accounted for changes made since lm-17.2, call me lazy.
 * http://www.linuxsurvival.com
 * http://www.linfo.org/index.html
 * http://www.linuxquestions.org/
+* https://community.linuxmint.com/tutorial/view/100
 * http://developer.android.com/index.html (yes, its linux)
 
 ***

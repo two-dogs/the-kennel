@@ -57,7 +57,7 @@ Controlling Secure Boot](http://www.rodsbooks.com/efi-bootloaders/controlling-sb
 * [Grub2, '__grub__' everything you always wanted to know](https://help.ubuntu.com/community/Grub2)
 
 ***
-
+### Desktop Specific Documentation
 > Mint Cinnamon
 * https://github.com/linuxmint/Cinnamon
 * http://cinnamon.linuxmint.com/

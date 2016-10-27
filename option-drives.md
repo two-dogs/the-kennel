@@ -22,3 +22,5 @@ sudo inxi -U ;
 `
 ***
 the "To View/[**Share" instructions** are here.](https://github.com/two-dogs/the-kennel/blob/master/to-share.md).
+
+[An example of data returned](https://gist.github.com/anonymous/b38e85ea14c8bd2782f9162a971d35ee)

@@ -12,8 +12,6 @@ sudo inxi -U ;
  echo parted ;
  sudo parted -l ;
  sudo parted /dev/sda unit MiB print free ;
- sudo parted /dev/sdb unit MiB print free ;
- sudo parted /dev/sdc unit MiB print free ;
  echo lsblk  ;
  lsblk -fmi ;
  echo --cut-fstab-begin-- ;

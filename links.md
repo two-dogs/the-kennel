@@ -49,7 +49,7 @@ Controlling Secure Boot](http://www.rodsbooks.com/efi-bootloaders/controlling-sb
 ###Mint /Repair 
 * [**UEFI**, deal with it](https://github.com/two-dogs/the-kennel/blob/master/uefi-issues.md)
 * [**repair grub/mbr easily without a re-install**](http://sourceforge.net/p/boot-repair/home/Home/)
-* the caveman method of grub-only repair is shown[ here](http://community.linuxmint.com/tutorial/view/245)
+* [the caveman method of grub-only repair is shown here](http://community.linuxmint.com/tutorial/view/245)
 * [how-to-uninstall-manually-installed-nvidia-drivers](http://askubuntu.com/questions/219942/how-to-uninstall-manually-installed-nvidia-drivers)
 * [**ntfs** wiki by the arch smart-heads](https://wiki.archlinux.org/index.php/NTFS-3G)
 * [**the most recent kernel/headers**](http://kernel.ubuntu.com/~kernel-ppa/mainline/)

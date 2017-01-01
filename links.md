@@ -55,6 +55,7 @@ Controlling Secure Boot](http://www.rodsbooks.com/efi-bootloaders/controlling-sb
 * [**the most recent kernel/headers**](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
 * [**yeap, the no dvd/cd/usb but i want to install and i have the iso downloaded method***]( http://askubuntu.com/questions/340156/install-ubuntu-from-iso-image-directly-from-hard-disk-of-a-system-running-linux)
 * [Grub2, '__grub__' everything you always wanted to know](https://help.ubuntu.com/community/Grub2)
+* [Backing up and restoring your cinnamon settings (dconf)](https://github.com/linuxmint/Cinnamon/wiki/Backing-up-and-restoring-your-cinnamon-settings-(dconf))
 
 ***
 ### Desktop Specific Documentation

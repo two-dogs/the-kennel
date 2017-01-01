@@ -47,17 +47,16 @@ Controlling Secure Boot](http://www.rodsbooks.com/efi-bootloaders/controlling-sb
 ***
 
 ###Mint /Repair 
-* [**uefi**, deal with it](https://github.com/two-dogs/the-kennel/blob/master/uefi-issues.md)
+* [**no dvd/cd/usb, how to install the iso method**]( http://askubuntu.com/questions/340156/install-ubuntu-from-iso-image-directly-from-hard-disk-of-a-system-running-linux)
 * [**ntfs** wiki by the arch smart-heads](https://wiki.archlinux.org/index.php/NTFS-3G)
 * [**repair grub/mbr easily without a re-install**](http://sourceforge.net/p/boot-repair/home/Home/)
 * [**the most recent kernel/headers**](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
-* [**no dvd/cd/usb, how to install the iso method**]( http://askubuntu.com/questions/340156/install-ubuntu-from-iso-image-directly-from-hard-disk-of-a-system-running-linux)
+* [**uefi**, deal with it](https://github.com/two-dogs/the-kennel/blob/master/uefi-issues.md)
 * [backing up and restoring your cinnamon settings (dconf)](https://github.com/linuxmint/Cinnamon/wiki/Backing-up-and-restoring-your-cinnamon-settings-(dconf))
-* [Grub2, '__grub__' everything you always wanted to know](https://help.ubuntu.com/community/Grub2)
+* [grub2, '__grub__' everything you always wanted to know](https://help.ubuntu.com/community/Grub2)
 * [how-to-uninstall-manually-installed-nvidia-drivers](http://askubuntu.com/questions/219942/how-to-uninstall-manually-installed-nvidia-drivers)
 * [method of grub-only repair is shown here](http://community.linuxmint.com/tutorial/view/245)
 
-***
 ### Desktop Specific Documentation
 > Mint Cinnamon
 * https://github.com/linuxmint/Cinnamon

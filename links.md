@@ -5,6 +5,7 @@ I have not accounted for changes made since lm-17.2, call me lazy.
 * http://sourceforge.net/projects/linuxcommand/files/TLCL/
 * http://www.tldp.org/
 * http://mywiki.wooledge.org/BashGuide
+* https://explainshell.com/
 * http://www.linuxsurvival.com
 * http://www.linfo.org/index.html
 * http://www.linuxquestions.org/

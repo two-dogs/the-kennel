@@ -1,27 +1,27 @@
 
-###A good starting place to learn about Linux;
+### A good starting place to learn about Linux;
+* http://developer.android.com/index.html (yes, its linux)
 * http://linuxcommand.org/index.php
-* http://sourceforge.net/projects/linuxcommand/files/TLCL/
-* http://www.tldp.org/
+* http://lukenukem.co.nz/linux/2017/03/14/moving-linux.html
 * http://mywiki.wooledge.org/BashGuide
-* https://explainshell.com/
-* http://www.linuxsurvival.com
+* http://sourceforge.net/projects/linuxcommand/files/TLCL/
 * http://www.linfo.org/index.html
 * http://www.linuxquestions.org/
+* http://www.linuxsurvival.com
+* http://www.tldp.org/
 * https://community.linuxmint.com/tutorial/view/100
 * https://en.wikibooks.org/wiki/Linux_Guide
-* http://developer.android.com/index.html (yes, its linux)
-* http://lukenukem.co.nz/linux/2017/03/14/moving-linux.html
+* https://explainshell.com/
 
 ***
-###LM-18 specific documentation;
+### LM-18 specific documentation;
 * [UEFI](https://www.linuxmint.com/rel_sarah_cinnamon.php)
 * Linux Mint is not certified by Microsoft (and should not need to be). If your computer is using "secureBoot", turn it off.
 * [Managing EFI Boot Loaders for Linux:
 Controlling Secure Boot](http://www.rodsbooks.com/efi-bootloaders/controlling-sb.html)
 * [linuxmint/Roadmap](https://github.com/linuxmint/Roadmap) 
 
-###Mint specific documentation;
+### Mint specific documentation;
 * [The easy **click** way](https://www.google.com/search?q=mint+linux+manual)
 * http://www.linuxmint.com/
 * [the manual, the book, the how-to, etc](http://www.linuxmint.com/documentation.php)
@@ -30,7 +30,7 @@ Controlling Secure Boot](http://www.rodsbooks.com/efi-bootloaders/controlling-sb
 
 ***
 
-###Mint Install/Upgrade 
+### Mint Install/Upgrade 
 * http://www.linuxmint.com/oldreleases.php & 
 * http://www.linuxmint.com/download.php &
 * [**Mint version 13/Maya**](http://linuxmint.com/rel_maya.php)  
@@ -42,13 +42,13 @@ Controlling Secure Boot](http://www.rodsbooks.com/efi-bootloaders/controlling-sb
 * http://community.linuxmint.com/tutorial/view/2
 
 ***
-###Mint, Stuck with older version and have to make due?
+### Mint, Stuck with older version and have to make due?
 * [Where can I get the repositories for old Ubuntu versions?](http://superuser.com/questions/339537/where-can-i-get-the-repositories-for-old-ubuntu-versions)
 > the actual location of the repo files in mint may/will be different than what shown on the link, via `terminal` if you execute `inxi -r` the file pointing to the ubuntu repo needing to be changed will be shown, and you want to make the changes to it, rather than creating a new location.
 
 ***
 
-###Mint /Repair 
+### Mint /Repair 
 * [backing up and restoring your cinnamon settings (dconf)](https://github.com/linuxmint/Cinnamon/wiki/Backing-up-and-restoring-your-cinnamon-settings-(dconf))
 * [grub2, '__grub__' everything you always wanted to know](https://help.ubuntu.com/community/Grub2)
 * [how-to-uninstall-manually-installed-nvidia-drivers](http://askubuntu.com/questions/219942/how-to-uninstall-manually-installed-nvidia-drivers)
@@ -85,7 +85,7 @@ Controlling Secure Boot](http://www.rodsbooks.com/efi-bootloaders/controlling-sb
 
 ***
 
-###Mint Cinnamon Bugs/Issues/Tweaks
+### Mint Cinnamon Bugs/Issues/Tweaks
 * [Cinnamon Bugs](https://github.com/linuxmint/Cinnamon/labels/BUG)
 * [Issues, complaints & wish list](https://github.com/linuxmint/Cinnamon/issues)
 * [Cinnamon/notifications](https://github.com/linuxmint/Cinnamon/notifications)
@@ -94,5 +94,5 @@ Controlling Secure Boot](http://www.rodsbooks.com/efi-bootloaders/controlling-sb
 * [***cinnamon breaks because of gtk version 3.16, and fix part-2***](https://bbs.archlinux.org/viewtopic.php?id=195857)
 * [Add other music players to play list, i dont know how safe that is, i added Kodi and kmplayer to list, worked mostly, cant control player from the applet, if some one manages to please give me a shout. ( a re-install or upgrade of cinnamon will wipe the tweak, keep a restore or else.](http://all-tech-thoughts.blogspot.com/2014/09/how-to-add-gmusicbrowser-to-media-menu.html)
 
-###Mint Mate Bugs/Issues
+### Mint Mate Bugs/Issues
 * https://bugs.launchpad.net/linuxmint

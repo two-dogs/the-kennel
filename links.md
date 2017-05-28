@@ -11,6 +11,7 @@
 * https://community.linuxmint.com/tutorial/view/100
 * https://en.wikibooks.org/wiki/Linux_Guide
 * http://developer.android.com/index.html (yes, its linux)
+* http://lukenukem.co.nz/linux/2017/03/14/moving-linux.html
 
 ***
 ###LM-18 specific documentation;

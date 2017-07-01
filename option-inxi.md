@@ -1,4 +1,4 @@
-On lm-17.2, inxi has been made less than useful by default, to opt into updating the app via the use of -U, you have to **fix inxi**, 
+On lm-17.x/18.x, inxi has been made less than useful by default, to opt into updating the app via the use of -U, you have to **fix inxi**, 
 
 **execute via `terminal` the line below to fix inxi**;
 

@@ -36,7 +36,6 @@ Controlling Secure Boot](http://www.rodsbooks.com/efi-bootloaders/controlling-sb
 * http://packages.linuxmint.com/index.php
 * http://packages.ubuntu.com/
 > for upgrade info 
-* http://blog.linuxmint.com/?p=2725
 * http://community.linuxmint.com/tutorial/view/2
 
 ***

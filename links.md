@@ -33,7 +33,6 @@ Controlling Secure Boot](http://www.rodsbooks.com/efi-bootloaders/controlling-sb
 ### Mint Install/Upgrade 
 * http://www.linuxmint.com/oldreleases.php & 
 * http://www.linuxmint.com/download.php &
-* [**Mint version 13/Maya**](http://linuxmint.com/rel_maya.php)  
 * http://blog.linuxmint.com/
 * http://packages.linuxmint.com/index.php
 * http://packages.ubuntu.com/

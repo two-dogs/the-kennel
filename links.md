@@ -14,7 +14,7 @@
 * https://explainshell.com/
 
 ***
-### LM-18 specific documentation;
+### LM-18/19 specific documentation;
 * [UEFI](https://www.linuxmint.com/rel_sarah_cinnamon.php)
 * Linux Mint is not certified by Microsoft (and should not need to be). If your computer is using "secureBoot", turn it off.
 * [Managing EFI Boot Loaders for Linux:

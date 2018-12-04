@@ -1,7 +1,7 @@
-http://pariah.0wn0.com/
 ### **To Share**:
-the file _**`trouble-shoot-history.txt`**_ output from the various options executed is located in your user area(/home/your-user-name/..), at `~/trouble-shoot-history.txt` , and to share the current content continue reading , 
-* and to share the content via a pastebin link, open a terminal and execute;
+` inxi -Fxxxrzc0 | nc termbin.com 9999 '
+
+## share link output in chat channel/window.
 
 `pastebin ~/trouble-shoot-history.txt` 
 
@@ -15,4 +15,3 @@ the file _**`trouble-shoot-history.txt`**_ output from the various options execu
 
 > if all else fails, irc://spotchat.org/#pariah or http://spotchat.org/connect/ channel: #pariah , someone is usually there or leave a message via '.tell two_dogs blah blah here is the gist ' 
 
-http://pariah.0wn0.com/

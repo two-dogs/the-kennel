@@ -5,7 +5,3 @@
 `inxi -Fxxxrz -c0 --display | nc termbin.com 9999`
 
 ## share link output in chat channel/window.
-
-## if on Linux Mint 19.x the method below will work as well
-
-## http://susepaste.org/64347297 system settings > system info > upload system information > share link opened in browser here on the channel.
